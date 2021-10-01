@@ -1,0 +1,1430 @@
+,ID,Pathway,Protein,Relation
+0,R-HSA-5578775,Ion homeostasis,Q96D31,INVOLVED_IN
+1,R-HSA-5578775,Ion homeostasis,Q14643,INVOLVED_IN
+2,R-HSA-5578775,Ion homeostasis,Q92736,INVOLVED_IN
+3,R-HSA-5578775,Ion homeostasis,Q13586,INVOLVED_IN
+4,R-HSA-5578775,Ion homeostasis,P30626,INVOLVED_IN
+5,R-HSA-5578775,Ion homeostasis,P32418,INVOLVED_IN
+6,R-HSA-5578775,Ion homeostasis,P0DP23,INVOLVED_IN
+7,R-HSA-5578775,Ion homeostasis,P29475,INVOLVED_IN
+8,R-HSA-5578775,Ion homeostasis,Q13557,INVOLVED_IN
+9,R-HSA-5578775,Ion homeostasis,P16615,INVOLVED_IN
+10,R-HSA-5578775,Ion homeostasis,P17612,INVOLVED_IN
+11,R-HSA-5578775,Ion homeostasis,P19429,INVOLVED_IN
+12,R-HSA-5578775,Ion homeostasis,O14958,INVOLVED_IN
+13,R-HSA-5578775,Ion homeostasis,P68106,INVOLVED_IN
+14,R-HSA-5578775,Ion homeostasis,P21817,INVOLVED_IN
+15,R-HSA-5578775,Ion homeostasis,Q14571,INVOLVED_IN
+16,R-HSA-5578775,Ion homeostasis,O15247,INVOLVED_IN
+17,R-HSA-5578775,Ion homeostasis,Q13061,INVOLVED_IN
+18,R-HSA-5578775,Ion homeostasis,P23634,INVOLVED_IN
+19,R-HSA-5578775,Ion homeostasis,P26678,INVOLVED_IN
+20,R-HSA-5576891,Cardiac conduction,Q14524,INVOLVED_IN
+21,R-HSA-5576891,Cardiac conduction,Q96D31,INVOLVED_IN
+22,R-HSA-5576891,Cardiac conduction,Q14643,INVOLVED_IN
+23,R-HSA-5576891,Cardiac conduction,Q92736,INVOLVED_IN
+24,R-HSA-5576891,Cardiac conduction,P30626,INVOLVED_IN
+25,R-HSA-5576891,Cardiac conduction,P01160,INVOLVED_IN
+26,R-HSA-5576891,Cardiac conduction,P29475,INVOLVED_IN
+27,R-HSA-5576891,Cardiac conduction,Q13557,INVOLVED_IN
+28,R-HSA-5576891,Cardiac conduction,Q9NS61,INVOLVED_IN
+29,R-HSA-5576891,Cardiac conduction,P16615,INVOLVED_IN
+30,R-HSA-5576891,Cardiac conduction,Q13936,INVOLVED_IN
+31,R-HSA-5576891,Cardiac conduction,Q08289,INVOLVED_IN
+32,R-HSA-5576891,Cardiac conduction,O14649,INVOLVED_IN
+33,R-HSA-5576891,Cardiac conduction,P19429,INVOLVED_IN
+34,R-HSA-5576891,Cardiac conduction,Q14571,INVOLVED_IN
+35,R-HSA-5576891,Cardiac conduction,Q13061,INVOLVED_IN
+36,R-HSA-5576891,Cardiac conduction,P26678,INVOLVED_IN
+37,R-HSA-5576891,Cardiac conduction,Q13586,INVOLVED_IN
+38,R-HSA-5576891,Cardiac conduction,P32418,INVOLVED_IN
+39,R-HSA-5576891,Cardiac conduction,P0DP23,INVOLVED_IN
+40,R-HSA-5576891,Cardiac conduction,P17612,INVOLVED_IN
+41,R-HSA-5576891,Cardiac conduction,O14958,INVOLVED_IN
+42,R-HSA-5576891,Cardiac conduction,P68106,INVOLVED_IN
+43,R-HSA-5576891,Cardiac conduction,Q02641,INVOLVED_IN
+44,R-HSA-5576891,Cardiac conduction,P21817,INVOLVED_IN
+45,R-HSA-5576891,Cardiac conduction,O15247,INVOLVED_IN
+46,R-HSA-5576891,Cardiac conduction,P23634,INVOLVED_IN
+47,R-HSA-397014,Muscle contraction,Q14524,INVOLVED_IN
+48,R-HSA-397014,Muscle contraction,Q96D31,INVOLVED_IN
+49,R-HSA-397014,Muscle contraction,Q14643,INVOLVED_IN
+50,R-HSA-397014,Muscle contraction,Q92736,INVOLVED_IN
+51,R-HSA-397014,Muscle contraction,P30626,INVOLVED_IN
+52,R-HSA-397014,Muscle contraction,P01160,INVOLVED_IN
+53,R-HSA-397014,Muscle contraction,P29475,INVOLVED_IN
+54,R-HSA-397014,Muscle contraction,Q13557,INVOLVED_IN
+55,R-HSA-397014,Muscle contraction,Q9NS61,INVOLVED_IN
+56,R-HSA-397014,Muscle contraction,P16615,INVOLVED_IN
+57,R-HSA-397014,Muscle contraction,Q13936,INVOLVED_IN
+58,R-HSA-397014,Muscle contraction,Q08289,INVOLVED_IN
+59,R-HSA-397014,Muscle contraction,P56539,INVOLVED_IN
+60,R-HSA-397014,Muscle contraction,O14649,INVOLVED_IN
+61,R-HSA-397014,Muscle contraction,P19429,INVOLVED_IN
+62,R-HSA-397014,Muscle contraction,Q14571,INVOLVED_IN
+63,R-HSA-397014,Muscle contraction,Q13061,INVOLVED_IN
+64,R-HSA-397014,Muscle contraction,P26678,INVOLVED_IN
+65,R-HSA-397014,Muscle contraction,Q13586,INVOLVED_IN
+66,R-HSA-397014,Muscle contraction,P32418,INVOLVED_IN
+67,R-HSA-397014,Muscle contraction,P0DP23,INVOLVED_IN
+68,R-HSA-397014,Muscle contraction,P35609,INVOLVED_IN
+69,R-HSA-397014,Muscle contraction,P11532,INVOLVED_IN
+70,R-HSA-397014,Muscle contraction,P17612,INVOLVED_IN
+71,R-HSA-397014,Muscle contraction,O14958,INVOLVED_IN
+72,R-HSA-397014,Muscle contraction,P68106,INVOLVED_IN
+73,R-HSA-397014,Muscle contraction,Q02641,INVOLVED_IN
+74,R-HSA-397014,Muscle contraction,P21817,INVOLVED_IN
+75,R-HSA-397014,Muscle contraction,O15247,INVOLVED_IN
+76,R-HSA-397014,Muscle contraction,P23634,INVOLVED_IN
+77,R-HSA-983712,Ion channel transport,Q8TD43,INVOLVED_IN
+78,R-HSA-983712,Ion channel transport,Q92736,INVOLVED_IN
+79,R-HSA-983712,Ion channel transport,P30626,INVOLVED_IN
+80,R-HSA-983712,Ion channel transport,P0DP23,INVOLVED_IN
+81,R-HSA-983712,Ion channel transport,Q9C0H2,INVOLVED_IN
+82,R-HSA-983712,Ion channel transport,Q13557,INVOLVED_IN
+83,R-HSA-983712,Ion channel transport,P16615,INVOLVED_IN
+84,R-HSA-983712,Ion channel transport,O14958,INVOLVED_IN
+85,R-HSA-983712,Ion channel transport,P68106,INVOLVED_IN
+86,R-HSA-983712,Ion channel transport,P21817,INVOLVED_IN
+87,R-HSA-983712,Ion channel transport,O00141,INVOLVED_IN
+88,R-HSA-983712,Ion channel transport,Q9UBN4,INVOLVED_IN
+89,R-HSA-983712,Ion channel transport,O15247,INVOLVED_IN
+90,R-HSA-983712,Ion channel transport,Q13061,INVOLVED_IN
+91,R-HSA-983712,Ion channel transport,P23634,INVOLVED_IN
+92,R-HSA-983712,Ion channel transport,O94759,INVOLVED_IN
+93,R-HSA-983712,Ion channel transport,P26678,INVOLVED_IN
+94,R-HSA-418360,Platelet calcium homeostasis,Q96D31,INVOLVED_IN
+95,R-HSA-418360,Platelet calcium homeostasis,Q14643,INVOLVED_IN
+96,R-HSA-418360,Platelet calcium homeostasis,Q13586,INVOLVED_IN
+97,R-HSA-418360,Platelet calcium homeostasis,P30626,INVOLVED_IN
+98,R-HSA-418360,Platelet calcium homeostasis,P32418,INVOLVED_IN
+99,R-HSA-418360,Platelet calcium homeostasis,P0DP23,INVOLVED_IN
+100,R-HSA-418360,Platelet calcium homeostasis,Q14571,INVOLVED_IN
+101,R-HSA-418360,Platelet calcium homeostasis,P56373,INVOLVED_IN
+102,R-HSA-418360,Platelet calcium homeostasis,P16615,INVOLVED_IN
+103,R-HSA-418360,Platelet calcium homeostasis,P23634,INVOLVED_IN
+104,R-HSA-2672351,Stimuli-sensing channels,Q8TD43,INVOLVED_IN
+105,R-HSA-2672351,Stimuli-sensing channels,Q92736,INVOLVED_IN
+106,R-HSA-2672351,Stimuli-sensing channels,P30626,INVOLVED_IN
+107,R-HSA-2672351,Stimuli-sensing channels,P0DP23,INVOLVED_IN
+108,R-HSA-2672351,Stimuli-sensing channels,Q9C0H2,INVOLVED_IN
+109,R-HSA-2672351,Stimuli-sensing channels,O14958,INVOLVED_IN
+110,R-HSA-2672351,Stimuli-sensing channels,P68106,INVOLVED_IN
+111,R-HSA-2672351,Stimuli-sensing channels,P21817,INVOLVED_IN
+112,R-HSA-2672351,Stimuli-sensing channels,O00141,INVOLVED_IN
+113,R-HSA-2672351,Stimuli-sensing channels,Q9UBN4,INVOLVED_IN
+114,R-HSA-2672351,Stimuli-sensing channels,O15247,INVOLVED_IN
+115,R-HSA-2672351,Stimuli-sensing channels,Q13061,INVOLVED_IN
+116,R-HSA-2672351,Stimuli-sensing channels,O94759,INVOLVED_IN
+117,R-HSA-5576892,Phase 0 - rapid depolarisation,Q14524,INVOLVED_IN
+118,R-HSA-5576892,Phase 0 - rapid depolarisation,Q02641,INVOLVED_IN
+119,R-HSA-5576892,Phase 0 - rapid depolarisation,P0DP23,INVOLVED_IN
+120,R-HSA-5576892,Phase 0 - rapid depolarisation,Q13557,INVOLVED_IN
+121,R-HSA-5576892,Phase 0 - rapid depolarisation,Q13936,INVOLVED_IN
+122,R-HSA-5576892,Phase 0 - rapid depolarisation,Q08289,INVOLVED_IN
+123,R-HSA-418346,Platelet homeostasis,Q96D31,INVOLVED_IN
+124,R-HSA-418346,Platelet homeostasis,Q14643,INVOLVED_IN
+125,R-HSA-418346,Platelet homeostasis,Q13586,INVOLVED_IN
+126,R-HSA-418346,Platelet homeostasis,P30626,INVOLVED_IN
+127,R-HSA-418346,Platelet homeostasis,P29475,INVOLVED_IN
+128,R-HSA-418346,Platelet homeostasis,P32418,INVOLVED_IN
+129,R-HSA-418346,Platelet homeostasis,P0DP23,INVOLVED_IN
+130,R-HSA-418346,Platelet homeostasis,Q14571,INVOLVED_IN
+131,R-HSA-418346,Platelet homeostasis,P56373,INVOLVED_IN
+132,R-HSA-418346,Platelet homeostasis,P16615,INVOLVED_IN
+133,R-HSA-418346,Platelet homeostasis,P23634,INVOLVED_IN
+134,R-HSA-418346,Platelet homeostasis,Q12791,INVOLVED_IN
+135,R-HSA-139853,Elevation of cytosolic Ca2+ levels,Q96D31,INVOLVED_IN
+136,R-HSA-139853,Elevation of cytosolic Ca2+ levels,Q14643,INVOLVED_IN
+137,R-HSA-139853,Elevation of cytosolic Ca2+ levels,Q13586,INVOLVED_IN
+138,R-HSA-139853,Elevation of cytosolic Ca2+ levels,Q14571,INVOLVED_IN
+139,R-HSA-139853,Elevation of cytosolic Ca2+ levels,P56373,INVOLVED_IN
+140,R-HSA-418359,Reduction of cytosolic Ca++ levels,P30626,INVOLVED_IN
+141,R-HSA-418359,Reduction of cytosolic Ca++ levels,P32418,INVOLVED_IN
+142,R-HSA-418359,Reduction of cytosolic Ca++ levels,P0DP23,INVOLVED_IN
+143,R-HSA-418359,Reduction of cytosolic Ca++ levels,P23634,INVOLVED_IN
+144,R-HSA-418359,Reduction of cytosolic Ca++ levels,P16615,INVOLVED_IN
+145,R-HSA-9617324,Negative regulation of NMDA receptor-mediated neuronal transmission,Q14957,INVOLVED_IN
+146,R-HSA-9617324,Negative regulation of NMDA receptor-mediated neuronal transmission,P0DP23,INVOLVED_IN
+147,R-HSA-9617324,Negative regulation of NMDA receptor-mediated neuronal transmission,P35609,INVOLVED_IN
+148,R-HSA-9617324,Negative regulation of NMDA receptor-mediated neuronal transmission,Q13557,INVOLVED_IN
+149,R-HSA-936837,Ion transport by P-type ATPases,P30626,INVOLVED_IN
+150,R-HSA-936837,Ion transport by P-type ATPases,P0DP23,INVOLVED_IN
+151,R-HSA-936837,Ion transport by P-type ATPases,Q13557,INVOLVED_IN
+152,R-HSA-936837,Ion transport by P-type ATPases,P23634,INVOLVED_IN
+153,R-HSA-936837,Ion transport by P-type ATPases,P16615,INVOLVED_IN
+154,R-HSA-936837,Ion transport by P-type ATPases,P26678,INVOLVED_IN
+155,R-HSA-438066,"Unblocking of NMDA receptors, glutamate binding and activation",Q14957,INVOLVED_IN
+156,R-HSA-438066,"Unblocking of NMDA receptors, glutamate binding and activation",P0DP23,INVOLVED_IN
+157,R-HSA-438066,"Unblocking of NMDA receptors, glutamate binding and activation",P35609,INVOLVED_IN
+158,R-HSA-438066,"Unblocking of NMDA receptors, glutamate binding and activation",Q13557,INVOLVED_IN
+159,R-HSA-112308,Presynaptic depolarization and calcium channel opening,Q02641,INVOLVED_IN
+160,R-HSA-112308,Presynaptic depolarization and calcium channel opening,Q08289,INVOLVED_IN
+161,R-HSA-112308,Presynaptic depolarization and calcium channel opening,O00555,INVOLVED_IN
+162,R-HSA-5576893,Phase 2 - plateau phase,Q02641,INVOLVED_IN
+163,R-HSA-5576893,Phase 2 - plateau phase,Q13936,INVOLVED_IN
+164,R-HSA-5576893,Phase 2 - plateau phase,Q08289,INVOLVED_IN
+165,R-HSA-382551,Transport of small molecules,Q8TD43,INVOLVED_IN
+166,R-HSA-382551,Transport of small molecules,Q92736,INVOLVED_IN
+167,R-HSA-382551,Transport of small molecules,P30626,INVOLVED_IN
+168,R-HSA-382551,Transport of small molecules,P32418,INVOLVED_IN
+169,R-HSA-382551,Transport of small molecules,P0DP23,INVOLVED_IN
+170,R-HSA-382551,Transport of small molecules,Q9C0H2,INVOLVED_IN
+171,R-HSA-382551,Transport of small molecules,Q13557,INVOLVED_IN
+172,R-HSA-382551,Transport of small molecules,P16615,INVOLVED_IN
+173,R-HSA-382551,Transport of small molecules,P49281,INVOLVED_IN
+174,R-HSA-382551,Transport of small molecules,Q8NE86,INVOLVED_IN
+175,R-HSA-382551,Transport of small molecules,P19634,INVOLVED_IN
+176,R-HSA-382551,Transport of small molecules,Q8NBP7,INVOLVED_IN
+177,R-HSA-382551,Transport of small molecules,P17612,INVOLVED_IN
+178,R-HSA-382551,Transport of small molecules,O14958,INVOLVED_IN
+179,R-HSA-382551,Transport of small molecules,P68106,INVOLVED_IN
+180,R-HSA-382551,Transport of small molecules,P21817,INVOLVED_IN
+181,R-HSA-382551,Transport of small molecules,O00141,INVOLVED_IN
+182,R-HSA-382551,Transport of small molecules,Q9UBN4,INVOLVED_IN
+183,R-HSA-382551,Transport of small molecules,O15247,INVOLVED_IN
+184,R-HSA-382551,Transport of small molecules,Q13061,INVOLVED_IN
+185,R-HSA-382551,Transport of small molecules,P23634,INVOLVED_IN
+186,R-HSA-382551,Transport of small molecules,O94759,INVOLVED_IN
+187,R-HSA-382551,Transport of small molecules,P21796,INVOLVED_IN
+188,R-HSA-382551,Transport of small molecules,P26678,INVOLVED_IN
+189,R-HSA-5607763,CLEC7A (Dectin-1) induces NFAT activation,Q14643,INVOLVED_IN
+190,R-HSA-5607763,CLEC7A (Dectin-1) induces NFAT activation,P0DP23,INVOLVED_IN
+191,R-HSA-5607763,CLEC7A (Dectin-1) induces NFAT activation,Q14571,INVOLVED_IN
+192,R-HSA-419037,NCAM1 interactions,Q02641,INVOLVED_IN
+193,R-HSA-419037,NCAM1 interactions,O43497,INVOLVED_IN
+194,R-HSA-419037,NCAM1 interactions,Q13936,INVOLVED_IN
+195,R-HSA-419037,NCAM1 interactions,Q08289,INVOLVED_IN
+196,R-HSA-9022535,Loss of phosphorylation of MECP2 at T308,P17612,INVOLVED_IN
+197,R-HSA-9022535,Loss of phosphorylation of MECP2 at T308,P0DP23,INVOLVED_IN
+198,R-HSA-425561,Sodium/Calcium exchangers,P30626,INVOLVED_IN
+199,R-HSA-425561,Sodium/Calcium exchangers,P32418,INVOLVED_IN
+200,R-HSA-425561,Sodium/Calcium exchangers,P0DP23,INVOLVED_IN
+201,R-HSA-422356,Regulation of insulin secretion,P17612,INVOLVED_IN
+202,R-HSA-422356,Regulation of insulin secretion,Q14643,INVOLVED_IN
+203,R-HSA-422356,Regulation of insulin secretion,Q16623,INVOLVED_IN
+204,R-HSA-422356,Regulation of insulin secretion,P17252,INVOLVED_IN
+205,R-HSA-422356,Regulation of insulin secretion,Q14571,INVOLVED_IN
+206,R-HSA-422356,Regulation of insulin secretion,Q13936,INVOLVED_IN
+207,R-HSA-422356,Regulation of insulin secretion,Q08289,INVOLVED_IN
+208,R-HSA-422356,Regulation of insulin secretion,O00555,INVOLVED_IN
+209,R-HSA-3295583,TRP channels,Q8TD43,INVOLVED_IN
+210,R-HSA-3295583,TRP channels,Q9UBN4,INVOLVED_IN
+211,R-HSA-3295583,TRP channels,O94759,INVOLVED_IN
+212,R-HSA-390522,Striated Muscle Contraction,P19429,INVOLVED_IN
+213,R-HSA-390522,Striated Muscle Contraction,P35609,INVOLVED_IN
+214,R-HSA-390522,Striated Muscle Contraction,P11532,INVOLVED_IN
+215,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,P11021,INVOLVED_IN
+216,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,P0DP23,INVOLVED_IN
+217,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,P35609,INVOLVED_IN
+218,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,P17252,INVOLVED_IN
+219,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,P12814,INVOLVED_IN
+220,R-HSA-76005,Response to elevated platelet cytosolic Ca2+,P05067,INVOLVED_IN
+221,R-HSA-9013700,NOTCH4 Activation and Transmission of Signal to the Nucleus,P49810,INVOLVED_IN
+222,R-HSA-9013700,NOTCH4 Activation and Transmission of Signal to the Nucleus,P49768,INVOLVED_IN
+223,R-HSA-9005891,Loss of function of MECP2 in Rett syndrome,P17612,INVOLVED_IN
+224,R-HSA-9005891,Loss of function of MECP2 in Rett syndrome,P0DP23,INVOLVED_IN
+225,R-HSA-9675151,Disorders of Developmental Biology,P17612,INVOLVED_IN
+226,R-HSA-9675151,Disorders of Developmental Biology,P0DP23,INVOLVED_IN
+227,R-HSA-9005895,Pervasive developmental disorders,P17612,INVOLVED_IN
+228,R-HSA-9005895,Pervasive developmental disorders,P0DP23,INVOLVED_IN
+229,R-HSA-9697154,Disorders of Nervous System Development,P17612,INVOLVED_IN
+230,R-HSA-9697154,Disorders of Nervous System Development,P0DP23,INVOLVED_IN
+231,R-HSA-9620244,Long-term potentiation,Q14957,INVOLVED_IN
+232,R-HSA-9620244,Long-term potentiation,P0DP23,INVOLVED_IN
+233,R-HSA-9620244,Long-term potentiation,P35609,INVOLVED_IN
+234,R-HSA-9620244,Long-term potentiation,Q13557,INVOLVED_IN
+235,R-HSA-163685,Integration of energy metabolism,P17612,INVOLVED_IN
+236,R-HSA-163685,Integration of energy metabolism,Q14643,INVOLVED_IN
+237,R-HSA-163685,Integration of energy metabolism,Q16623,INVOLVED_IN
+238,R-HSA-163685,Integration of energy metabolism,P17252,INVOLVED_IN
+239,R-HSA-163685,Integration of energy metabolism,Q14571,INVOLVED_IN
+240,R-HSA-163685,Integration of energy metabolism,Q13936,INVOLVED_IN
+241,R-HSA-163685,Integration of energy metabolism,Q08289,INVOLVED_IN
+242,R-HSA-163685,Integration of energy metabolism,O00555,INVOLVED_IN
+243,R-HSA-114608,Platelet degranulation ,P11021,INVOLVED_IN
+244,R-HSA-114608,Platelet degranulation ,P0DP23,INVOLVED_IN
+245,R-HSA-114608,Platelet degranulation ,P35609,INVOLVED_IN
+246,R-HSA-114608,Platelet degranulation ,P12814,INVOLVED_IN
+247,R-HSA-114608,Platelet degranulation ,P05067,INVOLVED_IN
+248,R-HSA-1489509,DAG and IP3 signaling,P17612,INVOLVED_IN
+249,R-HSA-1489509,DAG and IP3 signaling,Q14643,INVOLVED_IN
+250,R-HSA-1489509,DAG and IP3 signaling,P0DP23,INVOLVED_IN
+251,R-HSA-1489509,DAG and IP3 signaling,P17252,INVOLVED_IN
+252,R-HSA-1489509,DAG and IP3 signaling,Q13557,INVOLVED_IN
+253,R-HSA-1489509,DAG and IP3 signaling,Q14571,INVOLVED_IN
+254,R-HSA-442982,Ras activation upon Ca2+ influx through NMDA receptor,P0DP23,INVOLVED_IN
+255,R-HSA-442982,Ras activation upon Ca2+ influx through NMDA receptor,P35609,INVOLVED_IN
+256,R-HSA-442982,Ras activation upon Ca2+ influx through NMDA receptor,Q13557,INVOLVED_IN
+257,R-HSA-3928665,EPH-ephrin mediated repulsion of cells,P14780,INVOLVED_IN
+258,R-HSA-3928665,EPH-ephrin mediated repulsion of cells,P06241,INVOLVED_IN
+259,R-HSA-3928665,EPH-ephrin mediated repulsion of cells,P49810,INVOLVED_IN
+260,R-HSA-3928665,EPH-ephrin mediated repulsion of cells,P49768,INVOLVED_IN
+261,R-HSA-418457,cGMP effects,Q14643,INVOLVED_IN
+262,R-HSA-418457,cGMP effects,Q12791,INVOLVED_IN
+263,R-HSA-983695,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,Q96D31,INVOLVED_IN
+264,R-HSA-983695,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,Q14643,INVOLVED_IN
+265,R-HSA-983695,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,Q13586,INVOLVED_IN
+266,R-HSA-983695,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,P0DP23,INVOLVED_IN
+267,R-HSA-983695,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,P06241,INVOLVED_IN
+268,R-HSA-983695,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,Q14571,INVOLVED_IN
+269,R-HSA-112043,PLC beta mediated events,P17612,INVOLVED_IN
+270,R-HSA-112043,PLC beta mediated events,Q14643,INVOLVED_IN
+271,R-HSA-112043,PLC beta mediated events,P0DP23,INVOLVED_IN
+272,R-HSA-112043,PLC beta mediated events,P17252,INVOLVED_IN
+273,R-HSA-112043,PLC beta mediated events,Q13557,INVOLVED_IN
+274,R-HSA-112043,PLC beta mediated events,Q14571,INVOLVED_IN
+275,R-HSA-392154,Nitric oxide stimulates guanylate cyclase,Q14643,INVOLVED_IN
+276,R-HSA-392154,Nitric oxide stimulates guanylate cyclase,P29475,INVOLVED_IN
+277,R-HSA-392154,Nitric oxide stimulates guanylate cyclase,Q12791,INVOLVED_IN
+278,R-HSA-112040,G-protein mediated events,P17612,INVOLVED_IN
+279,R-HSA-112040,G-protein mediated events,Q14643,INVOLVED_IN
+280,R-HSA-112040,G-protein mediated events,P0DP23,INVOLVED_IN
+281,R-HSA-112040,G-protein mediated events,P17252,INVOLVED_IN
+282,R-HSA-112040,G-protein mediated events,Q13557,INVOLVED_IN
+283,R-HSA-112040,G-protein mediated events,Q14571,INVOLVED_IN
+284,R-HSA-9609523,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,Q16623,INVOLVED_IN
+285,R-HSA-9609523,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,P05067,INVOLVED_IN
+286,R-HSA-111933,Calmodulin induced events,P17612,INVOLVED_IN
+287,R-HSA-111933,Calmodulin induced events,P0DP23,INVOLVED_IN
+288,R-HSA-111933,Calmodulin induced events,P17252,INVOLVED_IN
+289,R-HSA-111933,Calmodulin induced events,Q13557,INVOLVED_IN
+290,R-HSA-9035034,RHOF GTPase cycle,O60610,INVOLVED_IN
+291,R-HSA-9035034,RHOF GTPase cycle,P12814,INVOLVED_IN
+292,R-HSA-9035034,RHOF GTPase cycle,Q03135,INVOLVED_IN
+293,R-HSA-2025928,Calcineurin activates NFAT,P0DP23,INVOLVED_IN
+294,R-HSA-2025928,Calcineurin activates NFAT,P62942,INVOLVED_IN
+295,R-HSA-111997,CaM pathway,P17612,INVOLVED_IN
+296,R-HSA-111997,CaM pathway,P0DP23,INVOLVED_IN
+297,R-HSA-111997,CaM pathway,P17252,INVOLVED_IN
+298,R-HSA-111997,CaM pathway,Q13557,INVOLVED_IN
+299,R-HSA-2979096,NOTCH2 Activation and Transmission of Signal to the Nucleus,P49810,INVOLVED_IN
+300,R-HSA-2979096,NOTCH2 Activation and Transmission of Signal to the Nucleus,P49768,INVOLVED_IN
+301,R-HSA-5218921,VEGFR2 mediated cell proliferation,Q14643,INVOLVED_IN
+302,R-HSA-5218921,VEGFR2 mediated cell proliferation,P0DP23,INVOLVED_IN
+303,R-HSA-5218921,VEGFR2 mediated cell proliferation,P17252,INVOLVED_IN
+304,R-HSA-5218921,VEGFR2 mediated cell proliferation,Q14571,INVOLVED_IN
+305,R-HSA-9013405,RHOD GTPase cycle,O60610,INVOLVED_IN
+306,R-HSA-9013405,RHOD GTPase cycle,P12814,INVOLVED_IN
+307,R-HSA-9013405,RHOD GTPase cycle,Q03135,INVOLVED_IN
+308,R-HSA-445095,Interaction between L1 and Ankyrins,Q14524,INVOLVED_IN
+309,R-HSA-445095,Interaction between L1 and Ankyrins,Q01484,INVOLVED_IN
+310,R-HSA-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,P0DP23,INVOLVED_IN
+311,R-HSA-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,P35609,INVOLVED_IN
+312,R-HSA-442742,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,Q13557,INVOLVED_IN
+313,R-HSA-3000171,Non-integrin membrane-ECM interactions,P05556,INVOLVED_IN
+314,R-HSA-3000171,Non-integrin membrane-ECM interactions,P17252,INVOLVED_IN
+315,R-HSA-3000171,Non-integrin membrane-ECM interactions,P12814,INVOLVED_IN
+316,R-HSA-3000171,Non-integrin membrane-ECM interactions,P11532,INVOLVED_IN
+317,R-HSA-3000171,Non-integrin membrane-ECM interactions,Q9ULB1,INVOLVED_IN
+318,R-HSA-5619048,"Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)",P49281,INVOLVED_IN
+319,R-HSA-1299316,TWIK-releated acid-sensitive K+ channel (TASK),O14649,INVOLVED_IN
+320,R-HSA-375165,NCAM signaling for neurite out-growth,Q02641,INVOLVED_IN
+321,R-HSA-375165,NCAM signaling for neurite out-growth,O43497,INVOLVED_IN
+322,R-HSA-375165,NCAM signaling for neurite out-growth,P06241,INVOLVED_IN
+323,R-HSA-375165,NCAM signaling for neurite out-growth,Q13936,INVOLVED_IN
+324,R-HSA-375165,NCAM signaling for neurite out-growth,Q08289,INVOLVED_IN
+325,R-HSA-8949215,Mitochondrial calcium ion transport,Q8NE86,INVOLVED_IN
+326,R-HSA-8949215,Mitochondrial calcium ion transport,P21796,INVOLVED_IN
+327,R-HSA-381676,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,P17612,INVOLVED_IN
+328,R-HSA-381676,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,Q14643,INVOLVED_IN
+329,R-HSA-381676,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,Q14571,INVOLVED_IN
+330,R-HSA-983705,Signaling by the B Cell Receptor (BCR),Q96D31,INVOLVED_IN
+331,R-HSA-983705,Signaling by the B Cell Receptor (BCR),Q14643,INVOLVED_IN
+332,R-HSA-983705,Signaling by the B Cell Receptor (BCR),Q13586,INVOLVED_IN
+333,R-HSA-983705,Signaling by the B Cell Receptor (BCR),P0DP23,INVOLVED_IN
+334,R-HSA-983705,Signaling by the B Cell Receptor (BCR),P06241,INVOLVED_IN
+335,R-HSA-983705,Signaling by the B Cell Receptor (BCR),Q14571,INVOLVED_IN
+336,R-HSA-983705,Signaling by the B Cell Receptor (BCR),P62942,INVOLVED_IN
+337,R-HSA-3656535,TGFBR1 LBD Mutants in Cancer,P62942,INVOLVED_IN
+338,R-HSA-8957275,Post-translational protein phosphorylation,Q8NBP7,INVOLVED_IN
+339,R-HSA-8957275,Post-translational protein phosphorylation,P23327,INVOLVED_IN
+340,R-HSA-8957275,Post-translational protein phosphorylation,P05067,INVOLVED_IN
+341,R-HSA-163615,PKA activation,P17612,INVOLVED_IN
+342,R-HSA-163615,PKA activation,P0DP23,INVOLVED_IN
+343,R-HSA-9664323,FCGR3A-mediated IL10 synthesis,P17612,INVOLVED_IN
+344,R-HSA-9664323,FCGR3A-mediated IL10 synthesis,Q14643,INVOLVED_IN
+345,R-HSA-9664323,FCGR3A-mediated IL10 synthesis,P0DP23,INVOLVED_IN
+346,R-HSA-9664323,FCGR3A-mediated IL10 synthesis,P06241,INVOLVED_IN
+347,R-HSA-9664323,FCGR3A-mediated IL10 synthesis,Q14571,INVOLVED_IN
+348,R-HSA-442720,CREB1 phosphorylation through the activation of Adenylate Cyclase,P17612,INVOLVED_IN
+349,R-HSA-442720,CREB1 phosphorylation through the activation of Adenylate Cyclase,P0DP23,INVOLVED_IN
+350,R-HSA-9656223,Signaling by RAF1 mutants,P0DP23,INVOLVED_IN
+351,R-HSA-9656223,Signaling by RAF1 mutants,Q13557,INVOLVED_IN
+352,R-HSA-111996,Ca-dependent events,P17612,INVOLVED_IN
+353,R-HSA-111996,Ca-dependent events,P0DP23,INVOLVED_IN
+354,R-HSA-111996,Ca-dependent events,P17252,INVOLVED_IN
+355,R-HSA-111996,Ca-dependent events,Q13557,INVOLVED_IN
+356,R-HSA-114508,Effects of PIP2 hydrolysis,Q14643,INVOLVED_IN
+357,R-HSA-114508,Effects of PIP2 hydrolysis,Q14571,INVOLVED_IN
+358,R-HSA-438064,Post NMDA receptor activation events,P17612,INVOLVED_IN
+359,R-HSA-438064,Post NMDA receptor activation events,Q14957,INVOLVED_IN
+360,R-HSA-438064,Post NMDA receptor activation events,P0DP23,INVOLVED_IN
+361,R-HSA-438064,Post NMDA receptor activation events,P35609,INVOLVED_IN
+362,R-HSA-438064,Post NMDA receptor activation events,Q13557,INVOLVED_IN
+363,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea,Q16623,INVOLVED_IN
+364,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea,Q08289,INVOLVED_IN
+365,R-HSA-9662360,Sensory processing of sound by inner hair cells of the cochlea,Q12791,INVOLVED_IN
+366,R-HSA-109582,Hemostasis,P05556,INVOLVED_IN
+367,R-HSA-109582,Hemostasis,Q96D31,INVOLVED_IN
+368,R-HSA-109582,Hemostasis,Q14643,INVOLVED_IN
+369,R-HSA-109582,Hemostasis,Q13586,INVOLVED_IN
+370,R-HSA-109582,Hemostasis,P30626,INVOLVED_IN
+371,R-HSA-109582,Hemostasis,P32418,INVOLVED_IN
+372,R-HSA-109582,Hemostasis,P0DP23,INVOLVED_IN
+373,R-HSA-109582,Hemostasis,P29475,INVOLVED_IN
+374,R-HSA-109582,Hemostasis,P35609,INVOLVED_IN
+375,R-HSA-109582,Hemostasis,P12814,INVOLVED_IN
+376,R-HSA-109582,Hemostasis,P16615,INVOLVED_IN
+377,R-HSA-109582,Hemostasis,Q03135,INVOLVED_IN
+378,R-HSA-109582,Hemostasis,P17612,INVOLVED_IN
+379,R-HSA-109582,Hemostasis,P11021,INVOLVED_IN
+380,R-HSA-109582,Hemostasis,P17252,INVOLVED_IN
+381,R-HSA-109582,Hemostasis,P06241,INVOLVED_IN
+382,R-HSA-109582,Hemostasis,Q14571,INVOLVED_IN
+383,R-HSA-109582,Hemostasis,P56373,INVOLVED_IN
+384,R-HSA-109582,Hemostasis,P23634,INVOLVED_IN
+385,R-HSA-109582,Hemostasis,P05067,INVOLVED_IN
+386,R-HSA-109582,Hemostasis,Q12791,INVOLVED_IN
+387,R-HSA-1296071,Potassium Channels,O14649,INVOLVED_IN
+388,R-HSA-1296071,Potassium Channels,P22460,INVOLVED_IN
+389,R-HSA-1296071,Potassium Channels,Q12791,INVOLVED_IN
+390,R-HSA-163358,PKA-mediated phosphorylation of key metabolic factors,P17612,INVOLVED_IN
+391,R-HSA-3656534,Loss of Function of TGFBR1 in Cancer,P62942,INVOLVED_IN
+392,R-HSA-6794361,Neurexins and neuroligins,Q14957,INVOLVED_IN
+393,R-HSA-6794361,Neurexins and neuroligins,Q16623,INVOLVED_IN
+394,R-HSA-6794361,Neurexins and neuroligins,Q9ULB1,INVOLVED_IN
+395,R-HSA-9659379,Sensory processing of sound,Q16623,INVOLVED_IN
+396,R-HSA-9659379,Sensory processing of sound,Q08289,INVOLVED_IN
+397,R-HSA-9659379,Sensory processing of sound,Q12791,INVOLVED_IN
+398,R-HSA-5673000,RAF activation,P0DP23,INVOLVED_IN
+399,R-HSA-5673000,RAF activation,Q13557,INVOLVED_IN
+400,R-HSA-5576894,Phase 1 - inactivation of fast Na+ channels,Q9NS61,INVOLVED_IN
+401,R-HSA-3371571,HSF1-dependent transactivation,Q13557,INVOLVED_IN
+402,R-HSA-3371571,HSF1-dependent transactivation,Q02790,INVOLVED_IN
+403,R-HSA-5620916,VxPx cargo-targeting to cilium,Q13563,INVOLVED_IN
+404,R-HSA-5620916,VxPx cargo-targeting to cilium,P98161,INVOLVED_IN
+405,R-HSA-9017802,Noncanonical activation of NOTCH3,P49810,INVOLVED_IN
+406,R-HSA-9017802,Noncanonical activation of NOTCH3,P49768,INVOLVED_IN
+407,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion",Q13936,INVOLVED_IN
+408,R-HSA-400042,"Adrenaline,noradrenaline inhibits insulin secretion",Q08289,INVOLVED_IN
+409,R-HSA-8875513,MET interacts with TNS proteins,P05556,INVOLVED_IN
+410,R-HSA-390651,Dopamine receptors,P14416,INVOLVED_IN
+411,R-HSA-111931,PKA-mediated phosphorylation of CREB,P17612,INVOLVED_IN
+412,R-HSA-111931,PKA-mediated phosphorylation of CREB,P0DP23,INVOLVED_IN
+413,R-HSA-6802955,Paradoxical activation of RAF signaling by kinase inactive BRAF,P0DP23,INVOLVED_IN
+414,R-HSA-6802955,Paradoxical activation of RAF signaling by kinase inactive BRAF,Q13557,INVOLVED_IN
+415,R-HSA-6802946,Signaling by moderate kinase activity BRAF mutants,P0DP23,INVOLVED_IN
+416,R-HSA-6802946,Signaling by moderate kinase activity BRAF mutants,Q13557,INVOLVED_IN
+417,R-HSA-9649948,Signaling downstream of RAS mutants,P0DP23,INVOLVED_IN
+418,R-HSA-9649948,Signaling downstream of RAS mutants,Q13557,INVOLVED_IN
+419,R-HSA-6802949,Signaling by RAS mutants,P0DP23,INVOLVED_IN
+420,R-HSA-6802949,Signaling by RAS mutants,Q13557,INVOLVED_IN
+421,R-HSA-190827,Transport of connexins along the secretory pathway,P17302,INVOLVED_IN
+422,R-HSA-425986,Sodium/Proton exchangers,P19634,INVOLVED_IN
+423,R-HSA-6802952,Signaling by BRAF and RAF1 fusions,P0DP23,INVOLVED_IN
+424,R-HSA-6802952,Signaling by BRAF and RAF1 fusions,Q13557,INVOLVED_IN
+425,R-HSA-191650,Regulation of gap junction activity,P17302,INVOLVED_IN
+426,R-HSA-5250971,Toxicity of botulinum toxin type C (botC),Q16623,INVOLVED_IN
+427,R-HSA-1296346,Tandem pore domain potassium channels,O14649,INVOLVED_IN
+428,R-HSA-5682910,LGI-ADAM interactions,Q16623,INVOLVED_IN
+429,R-HSA-8854518,AURKA Activation by TPX2,P17612,INVOLVED_IN
+430,R-HSA-8854518,AURKA Activation by TPX2,P62258,INVOLVED_IN
+431,R-HSA-76002,"Platelet activation, signaling and aggregation",Q14643,INVOLVED_IN
+432,R-HSA-76002,"Platelet activation, signaling and aggregation",P11021,INVOLVED_IN
+433,R-HSA-76002,"Platelet activation, signaling and aggregation",P0DP23,INVOLVED_IN
+434,R-HSA-76002,"Platelet activation, signaling and aggregation",P35609,INVOLVED_IN
+435,R-HSA-76002,"Platelet activation, signaling and aggregation",P17252,INVOLVED_IN
+436,R-HSA-76002,"Platelet activation, signaling and aggregation",P12814,INVOLVED_IN
+437,R-HSA-76002,"Platelet activation, signaling and aggregation",P06241,INVOLVED_IN
+438,R-HSA-76002,"Platelet activation, signaling and aggregation",Q14571,INVOLVED_IN
+439,R-HSA-76002,"Platelet activation, signaling and aggregation",P05067,INVOLVED_IN
+440,R-HSA-111932,CaMK IV-mediated phosphorylation of CREB,P0DP23,INVOLVED_IN
+441,R-HSA-111932,CaMK IV-mediated phosphorylation of CREB,Q13557,INVOLVED_IN
+442,R-HSA-373753,Nephrin family interactions,P35609,INVOLVED_IN
+443,R-HSA-373753,Nephrin family interactions,P12814,INVOLVED_IN
+444,R-HSA-373753,Nephrin family interactions,P06241,INVOLVED_IN
+445,R-HSA-112316,Neuronal System,Q14957,INVOLVED_IN
+446,R-HSA-112316,Neuronal System,Q16623,INVOLVED_IN
+447,R-HSA-112316,Neuronal System,P0DP23,INVOLVED_IN
+448,R-HSA-112316,Neuronal System,P22460,INVOLVED_IN
+449,R-HSA-112316,Neuronal System,P35609,INVOLVED_IN
+450,R-HSA-112316,Neuronal System,Q13557,INVOLVED_IN
+451,R-HSA-112316,Neuronal System,Q08289,INVOLVED_IN
+452,R-HSA-112316,Neuronal System,Q9ULB1,INVOLVED_IN
+453,R-HSA-112316,Neuronal System,O00555,INVOLVED_IN
+454,R-HSA-112316,Neuronal System,O14649,INVOLVED_IN
+455,R-HSA-112316,Neuronal System,P17612,INVOLVED_IN
+456,R-HSA-112316,Neuronal System,Q02641,INVOLVED_IN
+457,R-HSA-112316,Neuronal System,P17252,INVOLVED_IN
+458,R-HSA-112316,Neuronal System,Q12791,INVOLVED_IN
+459,R-HSA-3371556,Cellular response to heat stress,P11021,INVOLVED_IN
+460,R-HSA-3371556,Cellular response to heat stress,Q13557,INVOLVED_IN
+461,R-HSA-3371556,Cellular response to heat stress,P62258,INVOLVED_IN
+462,R-HSA-3371556,Cellular response to heat stress,Q02790,INVOLVED_IN
+463,R-HSA-444473,Formyl peptide receptors bind formyl peptides and many other ligands,P05067,INVOLVED_IN
+464,R-HSA-9667769,Acetylcholine inhibits contraction of outer hair cells,Q12791,INVOLVED_IN
+465,R-HSA-4086398,Ca2+ pathway,Q14643,INVOLVED_IN
+466,R-HSA-4086398,Ca2+ pathway,P0DP23,INVOLVED_IN
+467,R-HSA-4086398,Ca2+ pathway,P17252,INVOLVED_IN
+468,R-HSA-4086398,Ca2+ pathway,Q14571,INVOLVED_IN
+469,R-HSA-418594,G alpha (i) signalling events,P17612,INVOLVED_IN
+470,R-HSA-418594,G alpha (i) signalling events,Q14643,INVOLVED_IN
+471,R-HSA-418594,G alpha (i) signalling events,P0DP23,INVOLVED_IN
+472,R-HSA-418594,G alpha (i) signalling events,P17252,INVOLVED_IN
+473,R-HSA-418594,G alpha (i) signalling events,Q13557,INVOLVED_IN
+474,R-HSA-418594,G alpha (i) signalling events,Q14571,INVOLVED_IN
+475,R-HSA-418594,G alpha (i) signalling events,O43603,INVOLVED_IN
+476,R-HSA-418594,G alpha (i) signalling events,P41180,INVOLVED_IN
+477,R-HSA-418594,G alpha (i) signalling events,P05067,INVOLVED_IN
+478,R-HSA-196025,Formation of annular gap junctions,P17302,INVOLVED_IN
+479,R-HSA-8866427,VLDLR internalisation and degradation,Q8NBP7,INVOLVED_IN
+480,R-HSA-9634600,"Regulation of glycolysis by fructose 2,6-bisphosphate metabolism",P17612,INVOLVED_IN
+481,R-HSA-210991,Basigin interactions,P05556,INVOLVED_IN
+482,R-HSA-210991,Basigin interactions,Q03135,INVOLVED_IN
+483,R-HSA-9013409,RHOJ GTPase cycle,P17302,INVOLVED_IN
+484,R-HSA-9013409,RHOJ GTPase cycle,Q03135,INVOLVED_IN
+485,R-HSA-425393,Transport of inorganic cations/anions and amino acids/oligopeptides,P30626,INVOLVED_IN
+486,R-HSA-425393,Transport of inorganic cations/anions and amino acids/oligopeptides,P32418,INVOLVED_IN
+487,R-HSA-425393,Transport of inorganic cations/anions and amino acids/oligopeptides,P0DP23,INVOLVED_IN
+488,R-HSA-425393,Transport of inorganic cations/anions and amino acids/oligopeptides,P19634,INVOLVED_IN
+489,R-HSA-2122948,Activated NOTCH1 Transmits Signal to the Nucleus,P49810,INVOLVED_IN
+490,R-HSA-2122948,Activated NOTCH1 Transmits Signal to the Nucleus,P49768,INVOLVED_IN
+491,R-HSA-193692,Regulated proteolysis of p75NTR,P49810,INVOLVED_IN
+492,R-HSA-193692,Regulated proteolysis of p75NTR,P49768,INVOLVED_IN
+493,R-HSA-8949664,Processing of SMDT1,Q8NE86,INVOLVED_IN
+494,R-HSA-1296052,Ca2+ activated K+ channels,Q12791,INVOLVED_IN
+495,R-HSA-9013406,RHOQ GTPase cycle,P17302,INVOLVED_IN
+496,R-HSA-9013406,RHOQ GTPase cycle,Q03135,INVOLVED_IN
+497,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes,P17612,INVOLVED_IN
+498,R-HSA-380320,Recruitment of NuMA to mitotic centrosomes,P62258,INVOLVED_IN
+499,R-HSA-9010642,ROBO receptors bind AKAP5,P17612,INVOLVED_IN
+500,R-HSA-9010642,ROBO receptors bind AKAP5,P17252,INVOLVED_IN
+501,R-HSA-111957,Cam-PDE 1 activation,P0DP23,INVOLVED_IN
+502,R-HSA-5576886,Phase 4 - resting membrane potential,O14649,INVOLVED_IN
+503,R-HSA-111885,Opioid Signalling,P17612,INVOLVED_IN
+504,R-HSA-111885,Opioid Signalling,Q14643,INVOLVED_IN
+505,R-HSA-111885,Opioid Signalling,P0DP23,INVOLVED_IN
+506,R-HSA-111885,Opioid Signalling,P17252,INVOLVED_IN
+507,R-HSA-111885,Opioid Signalling,Q13557,INVOLVED_IN
+508,R-HSA-111885,Opioid Signalling,Q14571,INVOLVED_IN
+509,R-HSA-3000170,Syndecan interactions,P05556,INVOLVED_IN
+510,R-HSA-3000170,Syndecan interactions,P17252,INVOLVED_IN
+511,R-HSA-3000170,Syndecan interactions,P12814,INVOLVED_IN
+512,R-HSA-5578768,Physiological factors,P01160,INVOLVED_IN
+513,R-HSA-190873,Gap junction degradation,P17302,INVOLVED_IN
+514,R-HSA-451308,Activation of Ca-permeable Kainate Receptor,P0DP23,INVOLVED_IN
+515,R-HSA-190840,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,P17302,INVOLVED_IN
+516,R-HSA-6794362,Protein-protein interactions at synapses,Q14957,INVOLVED_IN
+517,R-HSA-6794362,Protein-protein interactions at synapses,Q16623,INVOLVED_IN
+518,R-HSA-6794362,Protein-protein interactions at synapses,Q9ULB1,INVOLVED_IN
+519,R-HSA-190872,Transport of connexons to the plasma membrane,P17302,INVOLVED_IN
+520,R-HSA-451306,Ionotropic activity of kainate receptors,P0DP23,INVOLVED_IN
+521,R-HSA-9013026,RHOB GTPase cycle,O60610,INVOLVED_IN
+522,R-HSA-9013026,RHOB GTPase cycle,Q03135,INVOLVED_IN
+523,R-HSA-6802957,Oncogenic MAPK signaling,P0DP23,INVOLVED_IN
+524,R-HSA-6802957,Oncogenic MAPK signaling,Q13557,INVOLVED_IN
+525,R-HSA-9013408,RHOG GTPase cycle,P05556,INVOLVED_IN
+526,R-HSA-9013408,RHOG GTPase cycle,Q03135,INVOLVED_IN
+527,R-HSA-75892,Platelet Adhesion to exposed collagen,P05556,INVOLVED_IN
+528,R-HSA-75892,Platelet Adhesion to exposed collagen,P06241,INVOLVED_IN
+529,R-HSA-205043,NRIF signals cell death from the nucleus,P49810,INVOLVED_IN
+530,R-HSA-205043,NRIF signals cell death from the nucleus,P49768,INVOLVED_IN
+531,R-HSA-1980145,Signaling by NOTCH2,P49810,INVOLVED_IN
+532,R-HSA-1980145,Signaling by NOTCH2,P49768,INVOLVED_IN
+533,R-HSA-2871809,FCERI mediated Ca+2 mobilization,Q14643,INVOLVED_IN
+534,R-HSA-2871809,FCERI mediated Ca+2 mobilization,P0DP23,INVOLVED_IN
+535,R-HSA-2871809,FCERI mediated Ca+2 mobilization,Q14571,INVOLVED_IN
+536,R-HSA-9013106,RHOC GTPase cycle,O60610,INVOLVED_IN
+537,R-HSA-9013106,RHOC GTPase cycle,Q03135,INVOLVED_IN
+538,R-HSA-2142688,Synthesis of 5-eicosatetraenoic acids,P27169,INVOLVED_IN
+539,R-HSA-2514859,"Inactivation, recovery and regulation of the phototransduction cascade",P0DP23,INVOLVED_IN
+540,R-HSA-2514859,"Inactivation, recovery and regulation of the phototransduction cascade",P17252,INVOLVED_IN
+541,R-HSA-196836,Vitamin C (ascorbate) metabolism,P78417,INVOLVED_IN
+542,R-HSA-3000178,ECM proteoglycans,P05556,INVOLVED_IN
+543,R-HSA-3000178,ECM proteoglycans,P05067,INVOLVED_IN
+544,R-HSA-2173791,TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),P62942,INVOLVED_IN
+545,R-HSA-4419969,Depolymerisation of the Nuclear Lamina,P17252,INVOLVED_IN
+546,R-HSA-190861,Gap junction assembly,P17302,INVOLVED_IN
+547,R-HSA-190861,Gap junction assembly,P35212,INVOLVED_IN
+548,R-HSA-2514856,The phototransduction cascade,P0DP23,INVOLVED_IN
+549,R-HSA-2514856,The phototransduction cascade,P17252,INVOLVED_IN
+550,R-HSA-879415,Advanced glycosylation endproduct receptor signaling,P05067,INVOLVED_IN
+551,R-HSA-3000157,Laminin interactions,P05556,INVOLVED_IN
+552,R-HSA-163560,Triglyceride catabolism,P17612,INVOLVED_IN
+553,R-HSA-163560,Triglyceride catabolism,Q03135,INVOLVED_IN
+554,R-HSA-9013404,RAC2 GTPase cycle,P05556,INVOLVED_IN
+555,R-HSA-9013404,RAC2 GTPase cycle,Q03135,INVOLVED_IN
+556,R-HSA-9013423,RAC3 GTPase cycle,P05556,INVOLVED_IN
+557,R-HSA-9013423,RAC3 GTPase cycle,Q03135,INVOLVED_IN
+558,R-HSA-9609507,Protein localization,Q16623,INVOLVED_IN
+559,R-HSA-9609507,Protein localization,P05067,INVOLVED_IN
+560,R-HSA-9609507,Protein localization,P21796,INVOLVED_IN
+561,R-HSA-164378,PKA activation in glucagon signalling,P17612,INVOLVED_IN
+562,R-HSA-2160916,Hyaluronan uptake and degradation,P19634,INVOLVED_IN
+563,R-HSA-70221,Glycogen breakdown (glycogenolysis),P0DP23,INVOLVED_IN
+564,R-HSA-9664433,Leishmania parasite growth and survival,P17612,INVOLVED_IN
+565,R-HSA-9664433,Leishmania parasite growth and survival,Q14643,INVOLVED_IN
+566,R-HSA-9664433,Leishmania parasite growth and survival,P0DP23,INVOLVED_IN
+567,R-HSA-9664433,Leishmania parasite growth and survival,P06241,INVOLVED_IN
+568,R-HSA-9664433,Leishmania parasite growth and survival,Q14571,INVOLVED_IN
+569,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,P17612,INVOLVED_IN
+570,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,Q14643,INVOLVED_IN
+571,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,P0DP23,INVOLVED_IN
+572,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,P06241,INVOLVED_IN
+573,R-HSA-9662851,Anti-inflammatory response favouring Leishmania parasite infection,Q14571,INVOLVED_IN
+574,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),Q8NBP7,INVOLVED_IN
+575,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),P23327,INVOLVED_IN
+576,R-HSA-381426,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),P05067,INVOLVED_IN
+577,R-HSA-9679191,Potential therapeutics for SARS,P05556,INVOLVED_IN
+578,R-HSA-9679191,Potential therapeutics for SARS,P62942,INVOLVED_IN
+579,R-HSA-9679191,Potential therapeutics for SARS,Q02790,INVOLVED_IN
+580,R-HSA-8853659,RET signaling,P17612,INVOLVED_IN
+581,R-HSA-8853659,RET signaling,P17252,INVOLVED_IN
+582,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes,P17612,INVOLVED_IN
+583,R-HSA-380270,Recruitment of mitotic centrosome proteins and complexes,P62258,INVOLVED_IN
+584,R-HSA-8963896,HDL assembly,P17612,INVOLVED_IN
+585,R-HSA-205025,NADE modulates death signalling,P62258,INVOLVED_IN
+586,R-HSA-380259,Loss of Nlp from mitotic centrosomes,P17612,INVOLVED_IN
+587,R-HSA-380259,Loss of Nlp from mitotic centrosomes,P62258,INVOLVED_IN
+588,R-HSA-111447,Activation of BAD and translocation to mitochondria ,P62258,INVOLVED_IN
+589,R-HSA-6785631,ERBB2 Regulates Cell Motility,O60610,INVOLVED_IN
+590,R-HSA-933542,TRAF6 mediated NF-kB activation,P05067,INVOLVED_IN
+591,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome,P17612,INVOLVED_IN
+592,R-HSA-380284,Loss of proteins required for interphase microtubule organization from the centrosome,P62258,INVOLVED_IN
+593,R-HSA-2129379,Molecules associated with elastic fibres,P05556,INVOLVED_IN
+594,R-HSA-2142845,Hyaluronan metabolism,P19634,INVOLVED_IN
+595,R-HSA-190828,Gap junction trafficking,P17302,INVOLVED_IN
+596,R-HSA-190828,Gap junction trafficking,P35212,INVOLVED_IN
+597,R-HSA-3304351,Signaling by TGF-beta Receptor Complex in Cancer,P62942,INVOLVED_IN
+598,R-HSA-451326,Activation of kainate receptors upon glutamate binding,P0DP23,INVOLVED_IN
+599,R-HSA-445355,Smooth Muscle Contraction,P0DP23,INVOLVED_IN
+600,R-HSA-445355,Smooth Muscle Contraction,P56539,INVOLVED_IN
+601,R-HSA-4420097,VEGFA-VEGFR2 Pathway,P17612,INVOLVED_IN
+602,R-HSA-4420097,VEGFA-VEGFR2 Pathway,Q14643,INVOLVED_IN
+603,R-HSA-4420097,VEGFA-VEGFR2 Pathway,P0DP23,INVOLVED_IN
+604,R-HSA-4420097,VEGFA-VEGFR2 Pathway,P17252,INVOLVED_IN
+605,R-HSA-4420097,VEGFA-VEGFR2 Pathway,P06241,INVOLVED_IN
+606,R-HSA-4420097,VEGFA-VEGFR2 Pathway,Q14571,INVOLVED_IN
+607,R-HSA-4420097,VEGFA-VEGFR2 Pathway,Q03135,INVOLVED_IN
+608,R-HSA-1566977,Fibronectin matrix formation,P05556,INVOLVED_IN
+609,R-HSA-1296072,Voltage gated Potassium channels,P22460,INVOLVED_IN
+610,R-HSA-5626467,RHO GTPases activate IQGAPs,P0DP23,INVOLVED_IN
+611,R-HSA-380287,Centrosome maturation,P17612,INVOLVED_IN
+612,R-HSA-380287,Centrosome maturation,P62258,INVOLVED_IN
+613,R-HSA-8979227,Triglyceride metabolism,P17612,INVOLVED_IN
+614,R-HSA-8979227,Triglyceride metabolism,Q03135,INVOLVED_IN
+615,R-HSA-9032759,NTRK2 activates RAC1,P06241,INVOLVED_IN
+616,R-HSA-399954,Sema3A PAK dependent Axon repulsion,P06241,INVOLVED_IN
+617,R-HSA-1474244,Extracellular matrix organization,P05556,INVOLVED_IN
+618,R-HSA-1474244,Extracellular matrix organization,P14780,INVOLVED_IN
+619,R-HSA-1474244,Extracellular matrix organization,P17252,INVOLVED_IN
+620,R-HSA-1474244,Extracellular matrix organization,P12814,INVOLVED_IN
+621,R-HSA-1474244,Extracellular matrix organization,P11532,INVOLVED_IN
+622,R-HSA-1474244,Extracellular matrix organization,P05067,INVOLVED_IN
+623,R-HSA-1474244,Extracellular matrix organization,Q9ULB1,INVOLVED_IN
+624,R-HSA-1474244,Extracellular matrix organization,P49768,INVOLVED_IN
+625,R-HSA-416700,Other semaphorin interactions,P05556,INVOLVED_IN
+626,R-HSA-194138,Signaling by VEGF,P17612,INVOLVED_IN
+627,R-HSA-194138,Signaling by VEGF,Q14643,INVOLVED_IN
+628,R-HSA-194138,Signaling by VEGF,P0DP23,INVOLVED_IN
+629,R-HSA-194138,Signaling by VEGF,P17252,INVOLVED_IN
+630,R-HSA-194138,Signaling by VEGF,P06241,INVOLVED_IN
+631,R-HSA-194138,Signaling by VEGF,Q14571,INVOLVED_IN
+632,R-HSA-194138,Signaling by VEGF,Q03135,INVOLVED_IN
+633,R-HSA-157858,Gap junction trafficking and regulation,P17302,INVOLVED_IN
+634,R-HSA-157858,Gap junction trafficking and regulation,P35212,INVOLVED_IN
+635,R-HSA-442755,Activation of NMDA receptors and postsynaptic events,P17612,INVOLVED_IN
+636,R-HSA-442755,Activation of NMDA receptors and postsynaptic events,Q14957,INVOLVED_IN
+637,R-HSA-442755,Activation of NMDA receptors and postsynaptic events,P0DP23,INVOLVED_IN
+638,R-HSA-442755,Activation of NMDA receptors and postsynaptic events,P35609,INVOLVED_IN
+639,R-HSA-442755,Activation of NMDA receptors and postsynaptic events,Q13557,INVOLVED_IN
+640,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors,Q14957,INVOLVED_IN
+641,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors,P35609,INVOLVED_IN
+642,R-HSA-9609736,Assembly and cell surface presentation of NMDA receptors,Q13557,INVOLVED_IN
+643,R-HSA-9619229,Activation of RAC1 downstream of NMDARs,P0DP23,INVOLVED_IN
+644,R-HSA-3371568,Attenuation phase,Q02790,INVOLVED_IN
+645,R-HSA-75035,Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex,P62258,INVOLVED_IN
+646,R-HSA-1168372,Downstream signaling events of B Cell Receptor (BCR),P0DP23,INVOLVED_IN
+647,R-HSA-1168372,Downstream signaling events of B Cell Receptor (BCR),P62942,INVOLVED_IN
+648,R-HSA-9012999,RHO GTPase cycle,P17302,INVOLVED_IN
+649,R-HSA-9012999,RHO GTPase cycle,P05556,INVOLVED_IN
+650,R-HSA-9012999,RHO GTPase cycle,O60610,INVOLVED_IN
+651,R-HSA-9012999,RHO GTPase cycle,P12814,INVOLVED_IN
+652,R-HSA-9012999,RHO GTPase cycle,Q03135,INVOLVED_IN
+653,R-HSA-9619483,Activation of AMPK downstream of NMDARs,P0DP23,INVOLVED_IN
+654,R-HSA-422475,Axon guidance,Q14524,INVOLVED_IN
+655,R-HSA-422475,Axon guidance,P05556,INVOLVED_IN
+656,R-HSA-422475,Axon guidance,O43497,INVOLVED_IN
+657,R-HSA-422475,Axon guidance,Q01484,INVOLVED_IN
+658,R-HSA-422475,Axon guidance,Q13936,INVOLVED_IN
+659,R-HSA-422475,Axon guidance,Q08289,INVOLVED_IN
+660,R-HSA-422475,Axon guidance,P17612,INVOLVED_IN
+661,R-HSA-422475,Axon guidance,P14780,INVOLVED_IN
+662,R-HSA-422475,Axon guidance,Q02641,INVOLVED_IN
+663,R-HSA-422475,Axon guidance,P17252,INVOLVED_IN
+664,R-HSA-422475,Axon guidance,P06241,INVOLVED_IN
+665,R-HSA-422475,Axon guidance,Q9UBN4,INVOLVED_IN
+666,R-HSA-422475,Axon guidance,P49810,INVOLVED_IN
+667,R-HSA-422475,Axon guidance,P49768,INVOLVED_IN
+668,R-HSA-9013507,NOTCH3 Activation and Transmission of Signal to the Nucleus,P49810,INVOLVED_IN
+669,R-HSA-9013507,NOTCH3 Activation and Transmission of Signal to the Nucleus,P49768,INVOLVED_IN
+670,R-HSA-1912420,Pre-NOTCH Processing in Golgi,P16615,INVOLVED_IN
+671,R-HSA-9013418,RHOBTB2 GTPase cycle,P12814,INVOLVED_IN
+672,R-HSA-9032500,Activated NTRK2 signals through FYN,P06241,INVOLVED_IN
+673,R-HSA-8982491,Glycogen metabolism,P0DP23,INVOLVED_IN
+674,R-HSA-5620912,Anchoring of the basal body to the plasma membrane,P17612,INVOLVED_IN
+675,R-HSA-5620912,Anchoring of the basal body to the plasma membrane,P62258,INVOLVED_IN
+676,R-HSA-8980692,RHOA GTPase cycle,O60610,INVOLVED_IN
+677,R-HSA-8980692,RHOA GTPase cycle,Q03135,INVOLVED_IN
+678,R-HSA-114516,Disinhibition of SNARE formation,P17252,INVOLVED_IN
+679,R-HSA-389513,CTLA4 inhibitory signaling,P06241,INVOLVED_IN
+680,R-HSA-446353,Cell-extracellular matrix interactions,P05556,INVOLVED_IN
+681,R-HSA-446353,Cell-extracellular matrix interactions,P12814,INVOLVED_IN
+682,R-HSA-6798695,Neutrophil degranulation,P14780,INVOLVED_IN
+683,R-HSA-6798695,Neutrophil degranulation,O60610,INVOLVED_IN
+684,R-HSA-6798695,Neutrophil degranulation,O94759,INVOLVED_IN
+685,R-HSA-6798695,Neutrophil degranulation,P49768,INVOLVED_IN
+686,R-HSA-1433559,Regulation of KIT signaling,P17252,INVOLVED_IN
+687,R-HSA-1433559,Regulation of KIT signaling,P06241,INVOLVED_IN
+688,R-HSA-399956,CRMPs in Sema3A signaling,P06241,INVOLVED_IN
+689,R-HSA-1566948,Elastic fibre formation,P05556,INVOLVED_IN
+690,R-HSA-399955,SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion,P06241,INVOLVED_IN
+691,R-HSA-5663220,RHO GTPases Activate Formins,P05556,INVOLVED_IN
+692,R-HSA-5663220,RHO GTPases Activate Formins,O60610,INVOLVED_IN
+693,R-HSA-112315,Transmission across Chemical Synapses,P17612,INVOLVED_IN
+694,R-HSA-112315,Transmission across Chemical Synapses,Q02641,INVOLVED_IN
+695,R-HSA-112315,Transmission across Chemical Synapses,Q14957,INVOLVED_IN
+696,R-HSA-112315,Transmission across Chemical Synapses,Q16623,INVOLVED_IN
+697,R-HSA-112315,Transmission across Chemical Synapses,P0DP23,INVOLVED_IN
+698,R-HSA-112315,Transmission across Chemical Synapses,P35609,INVOLVED_IN
+699,R-HSA-112315,Transmission across Chemical Synapses,P17252,INVOLVED_IN
+700,R-HSA-112315,Transmission across Chemical Synapses,Q13557,INVOLVED_IN
+701,R-HSA-112315,Transmission across Chemical Synapses,Q08289,INVOLVED_IN
+702,R-HSA-112315,Transmission across Chemical Synapses,O00555,INVOLVED_IN
+703,R-HSA-8849932,Synaptic adhesion-like molecules,Q14957,INVOLVED_IN
+704,R-HSA-8964038,LDL clearance,Q8NBP7,INVOLVED_IN
+705,R-HSA-1474151,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",P0DP23,INVOLVED_IN
+706,R-HSA-373755,Semaphorin interactions,P05556,INVOLVED_IN
+707,R-HSA-373755,Semaphorin interactions,P06241,INVOLVED_IN
+708,R-HSA-5673001,RAF/MAP kinase cascade,P0DP23,INVOLVED_IN
+709,R-HSA-5673001,RAF/MAP kinase cascade,P35609,INVOLVED_IN
+710,R-HSA-5673001,RAF/MAP kinase cascade,Q13557,INVOLVED_IN
+711,R-HSA-5673001,RAF/MAP kinase cascade,P06241,INVOLVED_IN
+712,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane,P0DP23,INVOLVED_IN
+713,R-HSA-1445148,Translocation of SLC2A4 (GLUT4) to the plasma membrane,P62258,INVOLVED_IN
+714,R-HSA-9662361,Sensory processing of sound by outer hair cells of the cochlea,Q12791,INVOLVED_IN
+715,R-HSA-203641,NOSTRIN mediated eNOS trafficking,Q03135,INVOLVED_IN
+716,R-HSA-1592389,Activation of Matrix Metalloproteinases,P14780,INVOLVED_IN
+717,R-HSA-156590,Glutathione conjugation,P78417,INVOLVED_IN
+718,R-HSA-9706574,RHOBTB GTPase Cycle,P12814,INVOLVED_IN
+719,R-HSA-447041,CHL1 interactions,P05556,INVOLVED_IN
+720,R-HSA-3928663,EPHA-mediated growth cone collapse,P06241,INVOLVED_IN
+721,R-HSA-204998,"Cell death signalling via NRAGE, NRIF and NADE",P49810,INVOLVED_IN
+722,R-HSA-204998,"Cell death signalling via NRAGE, NRIF and NADE",P62258,INVOLVED_IN
+723,R-HSA-204998,"Cell death signalling via NRAGE, NRIF and NADE",P49768,INVOLVED_IN
+724,R-HSA-9696273,RND1 GTPase cycle,Q03135,INVOLVED_IN
+725,R-HSA-9696270,RND2 GTPase cycle,Q03135,INVOLVED_IN
+726,R-HSA-1442490,Collagen degradation,P14780,INVOLVED_IN
+727,R-HSA-2022090,Assembly of collagen fibrils and other multimeric structures,P14780,INVOLVED_IN
+728,R-HSA-5621575,CD209 (DC-SIGN) signaling,P17612,INVOLVED_IN
+729,R-HSA-5621575,CD209 (DC-SIGN) signaling,P06241,INVOLVED_IN
+730,R-HSA-1474228,Degradation of the extracellular matrix,P14780,INVOLVED_IN
+731,R-HSA-1474228,Degradation of the extracellular matrix,P49768,INVOLVED_IN
+732,R-HSA-9013149,RAC1 GTPase cycle,P05556,INVOLVED_IN
+733,R-HSA-9013149,RAC1 GTPase cycle,Q03135,INVOLVED_IN
+734,R-HSA-9696264,RND3 GTPase cycle,Q03135,INVOLVED_IN
+735,R-HSA-5621481,C-type lectin receptors (CLRs),P17612,INVOLVED_IN
+736,R-HSA-5621481,C-type lectin receptors (CLRs),Q14643,INVOLVED_IN
+737,R-HSA-5621481,C-type lectin receptors (CLRs),P0DP23,INVOLVED_IN
+738,R-HSA-5621481,C-type lectin receptors (CLRs),P06241,INVOLVED_IN
+739,R-HSA-5621481,C-type lectin receptors (CLRs),Q14571,INVOLVED_IN
+740,R-HSA-5218920,VEGFR2 mediated vascular permeability,P0DP23,INVOLVED_IN
+741,R-HSA-5218920,VEGFR2 mediated vascular permeability,Q03135,INVOLVED_IN
+742,R-HSA-1433557,Signaling by SCF-KIT,P14780,INVOLVED_IN
+743,R-HSA-1433557,Signaling by SCF-KIT,P17252,INVOLVED_IN
+744,R-HSA-1433557,Signaling by SCF-KIT,P06241,INVOLVED_IN
+745,R-HSA-168799,Neurotoxicity of clostridium toxins,Q16623,INVOLVED_IN
+746,R-HSA-1268020,Mitochondrial protein import,P21796,INVOLVED_IN
+747,R-HSA-9675108,Nervous system development,Q14524,INVOLVED_IN
+748,R-HSA-9675108,Nervous system development,P05556,INVOLVED_IN
+749,R-HSA-9675108,Nervous system development,O43497,INVOLVED_IN
+750,R-HSA-9675108,Nervous system development,Q01484,INVOLVED_IN
+751,R-HSA-9675108,Nervous system development,Q13936,INVOLVED_IN
+752,R-HSA-9675108,Nervous system development,Q08289,INVOLVED_IN
+753,R-HSA-9675108,Nervous system development,P17612,INVOLVED_IN
+754,R-HSA-9675108,Nervous system development,P14780,INVOLVED_IN
+755,R-HSA-9675108,Nervous system development,Q02641,INVOLVED_IN
+756,R-HSA-9675108,Nervous system development,P17252,INVOLVED_IN
+757,R-HSA-9675108,Nervous system development,P06241,INVOLVED_IN
+758,R-HSA-9675108,Nervous system development,Q9UBN4,INVOLVED_IN
+759,R-HSA-9675108,Nervous system development,P49810,INVOLVED_IN
+760,R-HSA-9675108,Nervous system development,P49768,INVOLVED_IN
+761,R-HSA-442729,CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde,P0DP23,INVOLVED_IN
+762,R-HSA-446343,Localization of the PINCH-ILK-PARVIN complex to focal adhesions,P05556,INVOLVED_IN
+763,R-HSA-912631,Regulation of signaling by CBL,P06241,INVOLVED_IN
+764,R-HSA-9013407,RHOH GTPase cycle,Q03135,INVOLVED_IN
+765,R-HSA-1222556,ROS and RNS production in phagocytes,P29475,INVOLVED_IN
+766,R-HSA-180024,DARPP-32 events,P17612,INVOLVED_IN
+767,R-HSA-180024,DARPP-32 events,P0DP23,INVOLVED_IN
+768,R-HSA-416476,G alpha (q) signalling events,Q14643,INVOLVED_IN
+769,R-HSA-416476,G alpha (q) signalling events,P17252,INVOLVED_IN
+770,R-HSA-416476,G alpha (q) signalling events,Q14571,INVOLVED_IN
+771,R-HSA-416476,G alpha (q) signalling events,P41180,INVOLVED_IN
+772,R-HSA-416476,G alpha (q) signalling events,P05067,INVOLVED_IN
+773,R-HSA-190704,Oligomerization of connexins into connexons,P17302,INVOLVED_IN
+774,R-HSA-163359,Glucagon signaling in metabolic regulation,P17612,INVOLVED_IN
+775,R-HSA-375280,Amine ligand-binding receptors,P14416,INVOLVED_IN
+776,R-HSA-3371511,HSF1 activation,P62258,INVOLVED_IN
+777,R-HSA-8964043,Plasma lipoprotein clearance,Q8NBP7,INVOLVED_IN
+778,R-HSA-446388,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,P12814,INVOLVED_IN
+779,R-HSA-3371453,Regulation of HSF1-mediated heat shock response,P11021,INVOLVED_IN
+780,R-HSA-3371453,Regulation of HSF1-mediated heat shock response,P62258,INVOLVED_IN
+781,R-HSA-114452,Activation of BH3-only proteins,P62258,INVOLVED_IN
+782,R-HSA-203615,eNOS activation,P0DP23,INVOLVED_IN
+783,R-HSA-203615,eNOS activation,Q03135,INVOLVED_IN
+784,R-HSA-3858494,Beta-catenin independent WNT signaling,Q14643,INVOLVED_IN
+785,R-HSA-3858494,Beta-catenin independent WNT signaling,P0DP23,INVOLVED_IN
+786,R-HSA-3858494,Beta-catenin independent WNT signaling,P17252,INVOLVED_IN
+787,R-HSA-3858494,Beta-catenin independent WNT signaling,Q14571,INVOLVED_IN
+788,R-HSA-432040,Vasopressin regulates renal water homeostasis via Aquaporins,P17612,INVOLVED_IN
+789,R-HSA-5617833,Cilium Assembly,P17612,INVOLVED_IN
+790,R-HSA-5617833,Cilium Assembly,Q13563,INVOLVED_IN
+791,R-HSA-5617833,Cilium Assembly,P98161,INVOLVED_IN
+792,R-HSA-5617833,Cilium Assembly,P62258,INVOLVED_IN
+793,R-HSA-9648002,RAS processing,P0DP23,INVOLVED_IN
+794,R-HSA-5210891,Uptake and function of anthrax toxins,P0DP23,INVOLVED_IN
+795,R-HSA-1250196,SHC1 events in ERBB2 signaling,P17252,INVOLVED_IN
+796,R-HSA-5607764,CLEC7A (Dectin-1) signaling,Q14643,INVOLVED_IN
+797,R-HSA-5607764,CLEC7A (Dectin-1) signaling,P0DP23,INVOLVED_IN
+798,R-HSA-5607764,CLEC7A (Dectin-1) signaling,Q14571,INVOLVED_IN
+799,R-HSA-70268,Pyruvate metabolism,P21796,INVOLVED_IN
+800,R-HSA-1855204,Synthesis of IP3 and IP4 in the cytosol,P0DP23,INVOLVED_IN
+801,R-HSA-418597,G alpha (z) signalling events,P17252,INVOLVED_IN
+802,R-HSA-420499,Class C/3 (Metabotropic glutamate/pheromone receptors),P41180,INVOLVED_IN
+803,R-HSA-166208,mTORC1-mediated signalling,P62942,INVOLVED_IN
+804,R-HSA-5684996,MAPK1/MAPK3 signaling,P0DP23,INVOLVED_IN
+805,R-HSA-5684996,MAPK1/MAPK3 signaling,P35609,INVOLVED_IN
+806,R-HSA-5684996,MAPK1/MAPK3 signaling,Q13557,INVOLVED_IN
+807,R-HSA-5684996,MAPK1/MAPK3 signaling,P06241,INVOLVED_IN
+808,R-HSA-2029485,Role of phospholipids in phagocytosis,Q14643,INVOLVED_IN
+809,R-HSA-2029485,Role of phospholipids in phagocytosis,Q14571,INVOLVED_IN
+810,R-HSA-8978934,Metabolism of cofactors,P0DP23,INVOLVED_IN
+811,R-HSA-1500931,Cell-Cell communication,P05556,INVOLVED_IN
+812,R-HSA-1500931,Cell-Cell communication,P35609,INVOLVED_IN
+813,R-HSA-1500931,Cell-Cell communication,P12814,INVOLVED_IN
+814,R-HSA-1500931,Cell-Cell communication,P06241,INVOLVED_IN
+815,R-HSA-69473,G2/M DNA damage checkpoint,P62258,INVOLVED_IN
+816,R-HSA-9012852,Signaling by NOTCH3,P49810,INVOLVED_IN
+817,R-HSA-9012852,Signaling by NOTCH3,P49768,INVOLVED_IN
+818,R-HSA-392517,Rap1 signalling,P17612,INVOLVED_IN
+819,R-HSA-68877,Mitotic Prometaphase,P17612,INVOLVED_IN
+820,R-HSA-68877,Mitotic Prometaphase,P62258,INVOLVED_IN
+821,R-HSA-1227986,Signaling by ERBB2,O60610,INVOLVED_IN
+822,R-HSA-1227986,Signaling by ERBB2,P17252,INVOLVED_IN
+823,R-HSA-1227986,Signaling by ERBB2,P06241,INVOLVED_IN
+824,R-HSA-8963898,Plasma lipoprotein assembly,P17612,INVOLVED_IN
+825,R-HSA-445717,Aquaporin-mediated transport,P17612,INVOLVED_IN
+826,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,P49810,INVOLVED_IN
+827,R-HSA-2894862,Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,P49768,INVOLVED_IN
+828,R-HSA-2644602,Signaling by NOTCH1 PEST Domain Mutants in Cancer,P49810,INVOLVED_IN
+829,R-HSA-2644602,Signaling by NOTCH1 PEST Domain Mutants in Cancer,P49768,INVOLVED_IN
+830,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants,P49810,INVOLVED_IN
+831,R-HSA-2644606,Constitutive Signaling by NOTCH1 PEST Domain Mutants,P49768,INVOLVED_IN
+832,R-HSA-2894858,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,P49810,INVOLVED_IN
+833,R-HSA-2894858,Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,P49768,INVOLVED_IN
+834,R-HSA-2644603,Signaling by NOTCH1 in Cancer,P49810,INVOLVED_IN
+835,R-HSA-2644603,Signaling by NOTCH1 in Cancer,P49768,INVOLVED_IN
+836,R-HSA-3371497,HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,Q02790,INVOLVED_IN
+837,R-HSA-8874081,MET activates PTK2 signaling,P05556,INVOLVED_IN
+838,R-HSA-9013694,Signaling by NOTCH4,P49810,INVOLVED_IN
+839,R-HSA-9013694,Signaling by NOTCH4,P49768,INVOLVED_IN
+840,R-HSA-9009391,Extra-nuclear estrogen signaling,P14780,INVOLVED_IN
+841,R-HSA-9009391,Extra-nuclear estrogen signaling,P0DP23,INVOLVED_IN
+842,R-HSA-9009391,Extra-nuclear estrogen signaling,Q03135,INVOLVED_IN
+843,R-HSA-9658195,Leishmania infection,P17612,INVOLVED_IN
+844,R-HSA-9658195,Leishmania infection,Q14643,INVOLVED_IN
+845,R-HSA-9658195,Leishmania infection,P0DP23,INVOLVED_IN
+846,R-HSA-9658195,Leishmania infection,P06241,INVOLVED_IN
+847,R-HSA-9658195,Leishmania infection,Q14571,INVOLVED_IN
+848,R-HSA-9658195,Leishmania infection,P05067,INVOLVED_IN
+849,R-HSA-8856828,Clathrin-mediated endocytosis,Q9UKS6,INVOLVED_IN
+850,R-HSA-8856828,Clathrin-mediated endocytosis,O00499,INVOLVED_IN
+851,R-HSA-5621480,Dectin-2 family,P06241,INVOLVED_IN
+852,R-HSA-156581,Methylation,P78417,INVOLVED_IN
+853,R-HSA-445989,TAK1 activates NFkB by phosphorylation and activation of IKKs complex,P05067,INVOLVED_IN
+854,R-HSA-70171,Glycolysis,P17612,INVOLVED_IN
+855,R-HSA-418890,Role of second messengers in netrin-1 signaling,Q9UBN4,INVOLVED_IN
+856,R-HSA-2029481,FCGR activation,P06241,INVOLVED_IN
+857,R-HSA-5610780,Degradation of GLI1 by the proteasome,P17612,INVOLVED_IN
+858,R-HSA-2980766,Nuclear Envelope Breakdown,P17252,INVOLVED_IN
+859,R-HSA-5620920,Cargo trafficking to the periciliary membrane,Q13563,INVOLVED_IN
+860,R-HSA-5620920,Cargo trafficking to the periciliary membrane,P98161,INVOLVED_IN
+861,R-HSA-9706374,FLT3 signaling through SRC family kinases,P06241,INVOLVED_IN
+862,R-HSA-202131,Metabolism of nitric oxide: NOS3 activation and regulation,P0DP23,INVOLVED_IN
+863,R-HSA-202131,Metabolism of nitric oxide: NOS3 activation and regulation,Q03135,INVOLVED_IN
+864,R-HSA-450520,HuR (ELAVL1) binds and stabilizes mRNA,P17252,INVOLVED_IN
+865,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,P17612,INVOLVED_IN
+866,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,Q14957,INVOLVED_IN
+867,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,P0DP23,INVOLVED_IN
+868,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,P35609,INVOLVED_IN
+869,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,P17252,INVOLVED_IN
+870,R-HSA-112314,Neurotransmitter receptors and postsynaptic signal transmission,Q13557,INVOLVED_IN
+871,R-HSA-381042,PERK regulates gene expression,P11021,INVOLVED_IN
+872,R-HSA-174824,"Plasma lipoprotein assembly, remodeling, and clearance",Q8NBP7,INVOLVED_IN
+873,R-HSA-174824,"Plasma lipoprotein assembly, remodeling, and clearance",P17612,INVOLVED_IN
+874,R-HSA-2187338,Visual phototransduction,P0DP23,INVOLVED_IN
+875,R-HSA-2187338,Visual phototransduction,P17252,INVOLVED_IN
+876,R-HSA-5205685,PINK1-PRKN Mediated Mitophagy,P21796,INVOLVED_IN
+877,R-HSA-5099900,WNT5A-dependent internalization of FZD4,P17252,INVOLVED_IN
+878,R-HSA-5627123,RHO GTPases activate PAKs,P0DP23,INVOLVED_IN
+879,R-HSA-8876198,RAB GEFs exchange GTP for GDP on RABs,P62258,INVOLVED_IN
+880,R-HSA-2032785,YAP1- and WWTR1 (TAZ)-stimulated gene expression,P01160,INVOLVED_IN
+881,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,Q14643,INVOLVED_IN
+882,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,P0DP23,INVOLVED_IN
+883,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,P06241,INVOLVED_IN
+884,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,Q14571,INVOLVED_IN
+885,R-HSA-9670439,"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",P06241,INVOLVED_IN
+886,R-HSA-9669938,Signaling by KIT in disease,P06241,INVOLVED_IN
+887,R-HSA-9006925,Intracellular signaling by second messengers,P17612,INVOLVED_IN
+888,R-HSA-9006925,Intracellular signaling by second messengers,Q14643,INVOLVED_IN
+889,R-HSA-9006925,Intracellular signaling by second messengers,P0DP23,INVOLVED_IN
+890,R-HSA-9006925,Intracellular signaling by second messengers,P17252,INVOLVED_IN
+891,R-HSA-9006925,Intracellular signaling by second messengers,Q13557,INVOLVED_IN
+892,R-HSA-9006925,Intracellular signaling by second messengers,P06241,INVOLVED_IN
+893,R-HSA-9006925,Intracellular signaling by second messengers,Q14571,INVOLVED_IN
+894,R-HSA-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,Q14643,INVOLVED_IN
+895,R-HSA-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,P06241,INVOLVED_IN
+896,R-HSA-2029480,Fcgamma receptor (FCGR) dependent phagocytosis,Q14571,INVOLVED_IN
+897,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition,P17612,INVOLVED_IN
+898,R-HSA-2565942,Regulation of PLK1 Activity at G2/M Transition,P62258,INVOLVED_IN
+899,R-HSA-5610783,Degradation of GLI2 by the proteasome,P17612,INVOLVED_IN
+900,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,P05556,INVOLVED_IN
+901,R-HSA-6785807,Interleukin-4 and Interleukin-13 signaling,P14780,INVOLVED_IN
+902,R-HSA-425407,SLC-mediated transmembrane transport,P30626,INVOLVED_IN
+903,R-HSA-425407,SLC-mediated transmembrane transport,P32418,INVOLVED_IN
+904,R-HSA-425407,SLC-mediated transmembrane transport,P0DP23,INVOLVED_IN
+905,R-HSA-425407,SLC-mediated transmembrane transport,P49281,INVOLVED_IN
+906,R-HSA-425407,SLC-mediated transmembrane transport,P19634,INVOLVED_IN
+907,R-HSA-5610785,GLI3 is processed to GLI3R by the proteasome,P17612,INVOLVED_IN
+908,R-HSA-389359,CD28 dependent Vav1 pathway,P06241,INVOLVED_IN
+909,R-HSA-8875878,MET promotes cell motility,P05556,INVOLVED_IN
+910,R-HSA-9709957,Sensory Perception,Q16623,INVOLVED_IN
+911,R-HSA-9709957,Sensory Perception,P0DP23,INVOLVED_IN
+912,R-HSA-9709957,Sensory Perception,P17252,INVOLVED_IN
+913,R-HSA-9709957,Sensory Perception,Q08289,INVOLVED_IN
+914,R-HSA-9709957,Sensory Perception,Q12791,INVOLVED_IN
+915,R-HSA-193704,p75 NTR receptor-mediated signalling,P49810,INVOLVED_IN
+916,R-HSA-193704,p75 NTR receptor-mediated signalling,P62258,INVOLVED_IN
+917,R-HSA-193704,p75 NTR receptor-mediated signalling,P49768,INVOLVED_IN
+918,R-HSA-264642,Acetylcholine Neurotransmitter Release Cycle,Q16623,INVOLVED_IN
+919,R-HSA-389357,CD28 dependent PI3K/Akt signaling,P06241,INVOLVED_IN
+920,R-HSA-181429,Serotonin Neurotransmitter Release Cycle,Q16623,INVOLVED_IN
+921,R-HSA-1980143,Signaling by NOTCH1,P49810,INVOLVED_IN
+922,R-HSA-1980143,Signaling by NOTCH1,P49768,INVOLVED_IN
+923,R-HSA-194315,Signaling by Rho GTPases,P17302,INVOLVED_IN
+924,R-HSA-194315,Signaling by Rho GTPases,P05556,INVOLVED_IN
+925,R-HSA-194315,Signaling by Rho GTPases,O60610,INVOLVED_IN
+926,R-HSA-194315,Signaling by Rho GTPases,P0DP23,INVOLVED_IN
+927,R-HSA-194315,Signaling by Rho GTPases,P17252,INVOLVED_IN
+928,R-HSA-194315,Signaling by Rho GTPases,P12814,INVOLVED_IN
+929,R-HSA-194315,Signaling by Rho GTPases,Q03135,INVOLVED_IN
+930,R-HSA-194315,Signaling by Rho GTPases,P62258,INVOLVED_IN
+931,R-HSA-181430,Norepinephrine Neurotransmitter Release Cycle,Q16623,INVOLVED_IN
+932,R-HSA-8866376,Reelin signalling pathway,P06241,INVOLVED_IN
+933,R-HSA-5205647,Mitophagy,P21796,INVOLVED_IN
+934,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",P17302,INVOLVED_IN
+935,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",P05556,INVOLVED_IN
+936,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",O60610,INVOLVED_IN
+937,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",P0DP23,INVOLVED_IN
+938,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",P17252,INVOLVED_IN
+939,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",P12814,INVOLVED_IN
+940,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",Q03135,INVOLVED_IN
+941,R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",P62258,INVOLVED_IN
+942,R-HSA-1483249,Inositol phosphate metabolism,P0DP23,INVOLVED_IN
+943,R-HSA-210990,PECAM1 interactions,P06241,INVOLVED_IN
+944,R-HSA-212676,Dopamine Neurotransmitter Release Cycle,Q16623,INVOLVED_IN
+945,R-HSA-210500,Glutamate Neurotransmitter Release Cycle,Q16623,INVOLVED_IN
+946,R-HSA-512988,"Interleukin-3, Interleukin-5 and GM-CSF signaling",P17612,INVOLVED_IN
+947,R-HSA-512988,"Interleukin-3, Interleukin-5 and GM-CSF signaling",P06241,INVOLVED_IN
+948,R-HSA-2219530,Constitutive Signaling by Aberrant PI3K in Cancer,P06241,INVOLVED_IN
+949,R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle,P21796,INVOLVED_IN
+950,R-HSA-2682334,EPH-Ephrin signaling,P14780,INVOLVED_IN
+951,R-HSA-2682334,EPH-Ephrin signaling,P06241,INVOLVED_IN
+952,R-HSA-2682334,EPH-Ephrin signaling,P49810,INVOLVED_IN
+953,R-HSA-2682334,EPH-Ephrin signaling,P49768,INVOLVED_IN
+954,R-HSA-5339562,Uptake and actions of bacterial toxins,Q16623,INVOLVED_IN
+955,R-HSA-5339562,Uptake and actions of bacterial toxins,P0DP23,INVOLVED_IN
+956,R-HSA-399997,Acetylcholine regulates insulin secretion,P17252,INVOLVED_IN
+957,R-HSA-69481,G2/M Checkpoints,P62258,INVOLVED_IN
+958,R-HSA-9013148,CDC42 GTPase cycle,Q03135,INVOLVED_IN
+959,R-HSA-2142753,Arachidonic acid metabolism,P27169,INVOLVED_IN
+960,R-HSA-8876725,Protein methylation,P0DP23,INVOLVED_IN
+961,R-HSA-70326,Glucose metabolism,P17612,INVOLVED_IN
+962,R-HSA-399719,Trafficking of AMPA receptors,P17252,INVOLVED_IN
+963,R-HSA-399719,Trafficking of AMPA receptors,Q13557,INVOLVED_IN
+964,R-HSA-4641262,Disassembly of the destruction complex and recruitment of AXIN to the membrane,Q03135,INVOLVED_IN
+965,R-HSA-1474290,Collagen formation,P14780,INVOLVED_IN
+966,R-HSA-5668599,RHO GTPases Activate NADPH Oxidases,P17252,INVOLVED_IN
+967,R-HSA-425410,Metal ion SLC transporters,P49281,INVOLVED_IN
+968,R-HSA-1630316,Glycosaminoglycan metabolism,P19634,INVOLVED_IN
+969,R-HSA-446728,Cell junction organization,P05556,INVOLVED_IN
+970,R-HSA-446728,Cell junction organization,P12814,INVOLVED_IN
+971,R-HSA-388396,GPCR downstream signalling,P17612,INVOLVED_IN
+972,R-HSA-388396,GPCR downstream signalling,Q14643,INVOLVED_IN
+973,R-HSA-388396,GPCR downstream signalling,P0DP23,INVOLVED_IN
+974,R-HSA-388396,GPCR downstream signalling,P17252,INVOLVED_IN
+975,R-HSA-388396,GPCR downstream signalling,Q13557,INVOLVED_IN
+976,R-HSA-388396,GPCR downstream signalling,Q14571,INVOLVED_IN
+977,R-HSA-388396,GPCR downstream signalling,O43603,INVOLVED_IN
+978,R-HSA-388396,GPCR downstream signalling,P41180,INVOLVED_IN
+979,R-HSA-388396,GPCR downstream signalling,P05067,INVOLVED_IN
+980,R-HSA-418885,DCC mediated attractive signaling,P06241,INVOLVED_IN
+981,R-HSA-195258,RHO GTPase Effectors,P05556,INVOLVED_IN
+982,R-HSA-195258,RHO GTPase Effectors,O60610,INVOLVED_IN
+983,R-HSA-195258,RHO GTPase Effectors,P0DP23,INVOLVED_IN
+984,R-HSA-195258,RHO GTPase Effectors,P17252,INVOLVED_IN
+985,R-HSA-195258,RHO GTPase Effectors,P62258,INVOLVED_IN
+986,R-HSA-381183,ATF6 (ATF6-alpha) activates chaperone genes,P11021,INVOLVED_IN
+987,R-HSA-399721,"Glutamate binding, activation of AMPA receptors and synaptic plasticity",P17252,INVOLVED_IN
+988,R-HSA-399721,"Glutamate binding, activation of AMPA receptors and synaptic plasticity",Q13557,INVOLVED_IN
+989,R-HSA-381033,ATF6 (ATF6-alpha) activates chaperones,P11021,INVOLVED_IN
+990,R-HSA-6807878,COPI-mediated anterograde transport,Q01484,INVOLVED_IN
+991,R-HSA-2028269,Signaling by Hippo,P62258,INVOLVED_IN
+992,R-HSA-9617828,FOXO-mediated transcription of cell cycle genes,Q03135,INVOLVED_IN
+993,R-HSA-5628897,TP53 Regulates Metabolic Genes,P62258,INVOLVED_IN
+994,R-HSA-2730905,Role of LAT2/NTAL/LAB on calcium mobilization,P06241,INVOLVED_IN
+995,R-HSA-1251985,Nuclear signaling by ERBB4,P49810,INVOLVED_IN
+996,R-HSA-1251985,Nuclear signaling by ERBB4,P49768,INVOLVED_IN
+997,R-HSA-9660821,ADORA2B mediated anti-inflammatory cytokines production,P17612,INVOLVED_IN
+998,R-HSA-1852241,Organelle biogenesis and maintenance,P17612,INVOLVED_IN
+999,R-HSA-1852241,Organelle biogenesis and maintenance,P0DP23,INVOLVED_IN
+1000,R-HSA-1852241,Organelle biogenesis and maintenance,Q13563,INVOLVED_IN
+1001,R-HSA-1852241,Organelle biogenesis and maintenance,P98161,INVOLVED_IN
+1002,R-HSA-1852241,Organelle biogenesis and maintenance,P62258,INVOLVED_IN
+1003,R-HSA-71387,Metabolism of carbohydrates,P17612,INVOLVED_IN
+1004,R-HSA-71387,Metabolism of carbohydrates,P0DP23,INVOLVED_IN
+1005,R-HSA-71387,Metabolism of carbohydrates,P19634,INVOLVED_IN
+1006,R-HSA-9007101,Rab regulation of trafficking,P62258,INVOLVED_IN
+1007,R-HSA-888590,"GABA synthesis, release, reuptake and degradation",Q16623,INVOLVED_IN
+1008,R-HSA-5619102,SLC transporter disorders,P49281,INVOLVED_IN
+1009,R-HSA-114604,GPVI-mediated activation cascade,P06241,INVOLVED_IN
+1010,R-HSA-2424491,DAP12 signaling,P06241,INVOLVED_IN
+1011,R-HSA-164944,Nef and signal transduction,P06241,INVOLVED_IN
+1012,R-HSA-844456,The NLRP3 inflammasome,P05067,INVOLVED_IN
+1013,R-HSA-622312,Inflammasomes,P05067,INVOLVED_IN
+1014,R-HSA-3928662,EPHB-mediated forward signaling,P06241,INVOLVED_IN
+1015,R-HSA-373752,Netrin-1 signaling,Q9UBN4,INVOLVED_IN
+1016,R-HSA-373752,Netrin-1 signaling,P06241,INVOLVED_IN
+1017,R-HSA-9660826,Purinergic signaling in leishmaniasis infection,P05067,INVOLVED_IN
+1018,R-HSA-9664424,Cell recruitment (pro-inflammatory response),P05067,INVOLVED_IN
+1019,R-HSA-375276,Peptide ligand-binding receptors,O43603,INVOLVED_IN
+1020,R-HSA-375276,Peptide ligand-binding receptors,P05067,INVOLVED_IN
+1021,R-HSA-2172127,DAP12 interactions,P06241,INVOLVED_IN
+1022,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P05556,INVOLVED_IN
+1023,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,Q14643,INVOLVED_IN
+1024,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P0DP23,INVOLVED_IN
+1025,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,Q03135,INVOLVED_IN
+1026,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P17612,INVOLVED_IN
+1027,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P14780,INVOLVED_IN
+1028,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,O60610,INVOLVED_IN
+1029,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,O00141,INVOLVED_IN
+1030,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P17252,INVOLVED_IN
+1031,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P06241,INVOLVED_IN
+1032,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,Q14571,INVOLVED_IN
+1033,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P49810,INVOLVED_IN
+1034,R-HSA-9006934,Signaling by Receptor Tyrosine Kinases,P49768,INVOLVED_IN
+1035,R-HSA-68875,Mitotic Prophase,P17252,INVOLVED_IN
+1036,R-HSA-983170,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",P11021,INVOLVED_IN
+1037,R-HSA-5683057,MAPK family signaling cascades,P17612,INVOLVED_IN
+1038,R-HSA-5683057,MAPK family signaling cascades,P0DP23,INVOLVED_IN
+1039,R-HSA-5683057,MAPK family signaling cascades,P35609,INVOLVED_IN
+1040,R-HSA-5683057,MAPK family signaling cascades,Q13557,INVOLVED_IN
+1041,R-HSA-5683057,MAPK family signaling cascades,P06241,INVOLVED_IN
+1042,R-HSA-1280218,Adaptive Immune System,P05556,INVOLVED_IN
+1043,R-HSA-1280218,Adaptive Immune System,Q96D31,INVOLVED_IN
+1044,R-HSA-1280218,Adaptive Immune System,P17612,INVOLVED_IN
+1045,R-HSA-1280218,Adaptive Immune System,Q14643,INVOLVED_IN
+1046,R-HSA-1280218,Adaptive Immune System,P11021,INVOLVED_IN
+1047,R-HSA-1280218,Adaptive Immune System,Q13586,INVOLVED_IN
+1048,R-HSA-1280218,Adaptive Immune System,P0DP23,INVOLVED_IN
+1049,R-HSA-1280218,Adaptive Immune System,P06241,INVOLVED_IN
+1050,R-HSA-1280218,Adaptive Immune System,Q14571,INVOLVED_IN
+1051,R-HSA-1280218,Adaptive Immune System,P62942,INVOLVED_IN
+1052,R-HSA-5610787,Hedgehog 'off' state,P17612,INVOLVED_IN
+1053,R-HSA-6811558,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",P06241,INVOLVED_IN
+1054,R-HSA-1912422,Pre-NOTCH Expression and Processing,P16615,INVOLVED_IN
+1055,R-HSA-4086400,PCP/CE pathway,P17252,INVOLVED_IN
+1056,R-HSA-264876,Insulin processing,Q16623,INVOLVED_IN
+1057,R-HSA-449836,Other interleukin signaling,Q16623,INVOLVED_IN
+1058,R-HSA-5625740,RHO GTPases activate PKNs,P62258,INVOLVED_IN
+1059,R-HSA-199418,Negative regulation of the PI3K/AKT network,P06241,INVOLVED_IN
+1060,R-HSA-109606,Intrinsic Pathway for Apoptosis,P62258,INVOLVED_IN
+1061,R-HSA-164952,The role of Nef in HIV-1 replication and disease pathogenesis,P06241,INVOLVED_IN
+1062,R-HSA-389356,CD28 co-stimulation,P06241,INVOLVED_IN
+1063,R-HSA-112310,Neurotransmitter release cycle,Q16623,INVOLVED_IN
+1064,R-HSA-2151201,Transcriptional activation of mitochondrial biogenesis,P0DP23,INVOLVED_IN
+1065,R-HSA-9006115,Signaling by NTRK2 (TRKB),P06241,INVOLVED_IN
+1066,R-HSA-9664422,FCGR3A-mediated phagocytosis,P06241,INVOLVED_IN
+1067,R-HSA-9664407,Parasite infection,P06241,INVOLVED_IN
+1068,R-HSA-9664417,Leishmania phagocytosis,P06241,INVOLVED_IN
+1069,R-HSA-156580,Phase II - Conjugation of compounds,P78417,INVOLVED_IN
+1070,R-HSA-68886,M Phase,P17612,INVOLVED_IN
+1071,R-HSA-68886,M Phase,P17252,INVOLVED_IN
+1072,R-HSA-68886,M Phase,P62258,INVOLVED_IN
+1073,R-HSA-9609690,HCMV Early Events,P05556,INVOLVED_IN
+1074,R-HSA-9020702,Interleukin-1 signaling,P05067,INVOLVED_IN
+1075,R-HSA-372790,Signaling by GPCR,P17612,INVOLVED_IN
+1076,R-HSA-372790,Signaling by GPCR,Q14643,INVOLVED_IN
+1077,R-HSA-372790,Signaling by GPCR,P0DP23,INVOLVED_IN
+1078,R-HSA-372790,Signaling by GPCR,P17252,INVOLVED_IN
+1079,R-HSA-372790,Signaling by GPCR,Q13557,INVOLVED_IN
+1080,R-HSA-372790,Signaling by GPCR,P14416,INVOLVED_IN
+1081,R-HSA-372790,Signaling by GPCR,Q14571,INVOLVED_IN
+1082,R-HSA-372790,Signaling by GPCR,O43603,INVOLVED_IN
+1083,R-HSA-372790,Signaling by GPCR,P41180,INVOLVED_IN
+1084,R-HSA-372790,Signaling by GPCR,P05067,INVOLVED_IN
+1085,R-HSA-416993,Trafficking of GluR2-containing AMPA receptors,P17252,INVOLVED_IN
+1086,R-HSA-165159,MTOR signalling,P62942,INVOLVED_IN
+1087,R-HSA-917937,Iron uptake and transport,P49281,INVOLVED_IN
+1088,R-HSA-6804757,Regulation of TP53 Degradation,O00141,INVOLVED_IN
+1089,R-HSA-9031628,NGF-stimulated transcription,O00141,INVOLVED_IN
+1090,R-HSA-376176,Signaling by ROBO receptors,P17612,INVOLVED_IN
+1091,R-HSA-376176,Signaling by ROBO receptors,P17252,INVOLVED_IN
+1092,R-HSA-2173789,TGF-beta receptor signaling activates SMADs,P62942,INVOLVED_IN
+1093,R-HSA-5689880,Ub-specific processing proteases,P21796,INVOLVED_IN
+1094,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors,P78417,INVOLVED_IN
+1095,R-HSA-500792,GPCR ligand binding,P14416,INVOLVED_IN
+1096,R-HSA-500792,GPCR ligand binding,O43603,INVOLVED_IN
+1097,R-HSA-500792,GPCR ligand binding,P41180,INVOLVED_IN
+1098,R-HSA-500792,GPCR ligand binding,P05067,INVOLVED_IN
+1099,R-HSA-196854,Metabolism of vitamins and cofactors,P0DP23,INVOLVED_IN
+1100,R-HSA-196854,Metabolism of vitamins and cofactors,P78417,INVOLVED_IN
+1101,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),P14416,INVOLVED_IN
+1102,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),O43603,INVOLVED_IN
+1103,R-HSA-373076,Class A/1 (Rhodopsin-like receptors),P05067,INVOLVED_IN
+1104,R-HSA-445144,Signal transduction by L1,P05556,INVOLVED_IN
+1105,R-HSA-2179392,EGFR Transactivation by Gastrin,P17252,INVOLVED_IN
+1106,R-HSA-5619115,Disorders of transmembrane transporters,P49281,INVOLVED_IN
+1107,R-HSA-373760,L1CAM interactions,Q14524,INVOLVED_IN
+1108,R-HSA-373760,L1CAM interactions,P05556,INVOLVED_IN
+1109,R-HSA-373760,L1CAM interactions,Q01484,INVOLVED_IN
+1110,R-HSA-199977,ER to Golgi Anterograde Transport,Q01484,INVOLVED_IN
+1111,R-HSA-9022692,Regulation of MECP2 expression and activity,P17612,INVOLVED_IN
+1112,R-HSA-9022692,Regulation of MECP2 expression and activity,P0DP23,INVOLVED_IN
+1113,R-HSA-9022692,Regulation of MECP2 expression and activity,Q13557,INVOLVED_IN
+1114,R-HSA-198725,Nuclear Events (kinase and transcription factor activation),O00141,INVOLVED_IN
+1115,R-HSA-2219528,PI3K/AKT Signaling in Cancer,P06241,INVOLVED_IN
+1116,R-HSA-199991,Membrane Trafficking,P17302,INVOLVED_IN
+1117,R-HSA-199991,Membrane Trafficking,Q9UKS6,INVOLVED_IN
+1118,R-HSA-199991,Membrane Trafficking,P0DP23,INVOLVED_IN
+1119,R-HSA-199991,Membrane Trafficking,Q01484,INVOLVED_IN
+1120,R-HSA-199991,Membrane Trafficking,P35212,INVOLVED_IN
+1121,R-HSA-199991,Membrane Trafficking,P05067,INVOLVED_IN
+1122,R-HSA-199991,Membrane Trafficking,O00499,INVOLVED_IN
+1123,R-HSA-199991,Membrane Trafficking,P62258,INVOLVED_IN
+1124,R-HSA-388841,Costimulation by the CD28 family,P06241,INVOLVED_IN
+1125,R-HSA-1236394,Signaling by ERBB4,P49810,INVOLVED_IN
+1126,R-HSA-1236394,Signaling by ERBB4,P49768,INVOLVED_IN
+1127,R-HSA-157118,Signaling by NOTCH,P49810,INVOLVED_IN
+1128,R-HSA-157118,Signaling by NOTCH,P16615,INVOLVED_IN
+1129,R-HSA-157118,Signaling by NOTCH,P49768,INVOLVED_IN
+1130,R-HSA-9679506,SARS-CoV Infections,P05556,INVOLVED_IN
+1131,R-HSA-9679506,SARS-CoV Infections,P62942,INVOLVED_IN
+1132,R-HSA-9679506,SARS-CoV Infections,Q02790,INVOLVED_IN
+1133,R-HSA-168643,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",P05067,INVOLVED_IN
+1134,R-HSA-202733,Cell surface interactions at the vascular wall,P05556,INVOLVED_IN
+1135,R-HSA-202733,Cell surface interactions at the vascular wall,P06241,INVOLVED_IN
+1136,R-HSA-202733,Cell surface interactions at the vascular wall,Q03135,INVOLVED_IN
+1137,R-HSA-881907,Gastrin-CREB signalling pathway via PKC and MAPK,P17252,INVOLVED_IN
+1138,R-HSA-8986944,Transcriptional Regulation by MECP2,P17612,INVOLVED_IN
+1139,R-HSA-8986944,Transcriptional Regulation by MECP2,P0DP23,INVOLVED_IN
+1140,R-HSA-8986944,Transcriptional Regulation by MECP2,O00141,INVOLVED_IN
+1141,R-HSA-8986944,Transcriptional Regulation by MECP2,Q13557,INVOLVED_IN
+1142,R-HSA-877300,Interferon gamma signaling,Q13557,INVOLVED_IN
+1143,R-HSA-975138,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,P05067,INVOLVED_IN
+1144,R-HSA-69275,G2/M Transition,P17612,INVOLVED_IN
+1145,R-HSA-69275,G2/M Transition,P62258,INVOLVED_IN
+1146,R-HSA-948021,Transport to the Golgi and subsequent modification,Q01484,INVOLVED_IN
+1147,R-HSA-216083,Integrin cell surface interactions,P05556,INVOLVED_IN
+1148,R-HSA-453274,Mitotic G2-G2/M phases,P17612,INVOLVED_IN
+1149,R-HSA-453274,Mitotic G2-G2/M phases,P62258,INVOLVED_IN
+1150,R-HSA-9609646,HCMV Infection,P05556,INVOLVED_IN
+1151,R-HSA-6806834,Signaling by MET,P05556,INVOLVED_IN
+1152,R-HSA-975871,MyD88 cascade initiated on plasma membrane,P05067,INVOLVED_IN
+1153,R-HSA-168142,Toll Like Receptor 10 (TLR10) Cascade,P05067,INVOLVED_IN
+1154,R-HSA-168176,Toll Like Receptor 5 (TLR5) Cascade,P05067,INVOLVED_IN
+1155,R-HSA-9607240,FLT3 Signaling,P06241,INVOLVED_IN
+1156,R-HSA-975155,MyD88 dependent cascade initiated on endosome,P05067,INVOLVED_IN
+1157,R-HSA-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,P05067,INVOLVED_IN
+1158,R-HSA-1592230,Mitochondrial biogenesis,P0DP23,INVOLVED_IN
+1159,R-HSA-977225,Amyloid fiber formation,P01160,INVOLVED_IN
+1160,R-HSA-977225,Amyloid fiber formation,P05067,INVOLVED_IN
+1161,R-HSA-168138,Toll Like Receptor 9 (TLR9) Cascade,P05067,INVOLVED_IN
+1162,R-HSA-168928,DDX58/IFIH1-mediated induction of interferon-alpha/beta,P05067,INVOLVED_IN
+1163,R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,P78417,INVOLVED_IN
+1164,R-HSA-3928664,Ephrin signaling,P06241,INVOLVED_IN
+1165,R-HSA-168164,Toll Like Receptor 3 (TLR3) Cascade,P05067,INVOLVED_IN
+1166,R-HSA-5653656,Vesicle-mediated transport,P17302,INVOLVED_IN
+1167,R-HSA-5653656,Vesicle-mediated transport,Q9UKS6,INVOLVED_IN
+1168,R-HSA-5653656,Vesicle-mediated transport,P0DP23,INVOLVED_IN
+1169,R-HSA-5653656,Vesicle-mediated transport,Q01484,INVOLVED_IN
+1170,R-HSA-5653656,Vesicle-mediated transport,P35212,INVOLVED_IN
+1171,R-HSA-5653656,Vesicle-mediated transport,P05067,INVOLVED_IN
+1172,R-HSA-5653656,Vesicle-mediated transport,O00499,INVOLVED_IN
+1173,R-HSA-5653656,Vesicle-mediated transport,P62258,INVOLVED_IN
+1174,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,P0DP23,INVOLVED_IN
+1175,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,Q13557,INVOLVED_IN
+1176,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,P06241,INVOLVED_IN
+1177,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,P49810,INVOLVED_IN
+1178,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,P49768,INVOLVED_IN
+1179,R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,P62942,INVOLVED_IN
+1180,R-HSA-8939211,ESR-mediated signaling,P14780,INVOLVED_IN
+1181,R-HSA-8939211,ESR-mediated signaling,P0DP23,INVOLVED_IN
+1182,R-HSA-8939211,ESR-mediated signaling,Q03135,INVOLVED_IN
+1183,R-HSA-8939211,ESR-mediated signaling,Q02790,INVOLVED_IN
+1184,R-HSA-69620,Cell Cycle Checkpoints,P62258,INVOLVED_IN
+1185,R-HSA-6806003,Regulation of TP53 Expression and Degradation,O00141,INVOLVED_IN
+1186,R-HSA-425366,"Transport of bile salts and organic acids, metal ions and amine compounds",P49281,INVOLVED_IN
+1187,R-HSA-9663891,Selective autophagy,P21796,INVOLVED_IN
+1188,R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport,P21796,INVOLVED_IN
+1189,R-HSA-937061,TRIF(TICAM1)-mediated TLR4 signaling ,P05067,INVOLVED_IN
+1190,R-HSA-166166,MyD88-independent TLR4 cascade ,P05067,INVOLVED_IN
+1191,R-HSA-5358351,Signaling by Hedgehog,P17612,INVOLVED_IN
+1192,R-HSA-2980736,Peptide hormone metabolism,Q16623,INVOLVED_IN
+1193,R-HSA-1266738,Developmental Biology,Q14524,INVOLVED_IN
+1194,R-HSA-1266738,Developmental Biology,P05556,INVOLVED_IN
+1195,R-HSA-1266738,Developmental Biology,Q16623,INVOLVED_IN
+1196,R-HSA-1266738,Developmental Biology,O43497,INVOLVED_IN
+1197,R-HSA-1266738,Developmental Biology,Q01484,INVOLVED_IN
+1198,R-HSA-1266738,Developmental Biology,Q13936,INVOLVED_IN
+1199,R-HSA-1266738,Developmental Biology,Q08289,INVOLVED_IN
+1200,R-HSA-1266738,Developmental Biology,P17612,INVOLVED_IN
+1201,R-HSA-1266738,Developmental Biology,P14780,INVOLVED_IN
+1202,R-HSA-1266738,Developmental Biology,Q02641,INVOLVED_IN
+1203,R-HSA-1266738,Developmental Biology,P17252,INVOLVED_IN
+1204,R-HSA-1266738,Developmental Biology,P06241,INVOLVED_IN
+1205,R-HSA-1266738,Developmental Biology,Q9UBN4,INVOLVED_IN
+1206,R-HSA-1266738,Developmental Biology,P49810,INVOLVED_IN
+1207,R-HSA-1266738,Developmental Biology,P49768,INVOLVED_IN
+1208,R-HSA-166058,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,P05067,INVOLVED_IN
+1209,R-HSA-983231,Factors involved in megakaryocyte development and platelet production,P17612,INVOLVED_IN
+1210,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade,P05067,INVOLVED_IN
+1211,R-HSA-168188,Toll Like Receptor TLR6:TLR2 Cascade,P05067,INVOLVED_IN
+1212,R-HSA-181438,Toll Like Receptor 2 (TLR2) Cascade,P05067,INVOLVED_IN
+1213,R-HSA-9020591,Interleukin-12 signaling,P78417,INVOLVED_IN
+1214,R-HSA-446652,Interleukin-1 family signaling,P05067,INVOLVED_IN
+1215,R-HSA-1632852,Macroautophagy,P21796,INVOLVED_IN
+1216,R-HSA-198933,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,P05556,INVOLVED_IN
+1217,R-HSA-211859,Biological oxidations,P78417,INVOLVED_IN
+1218,R-HSA-168249,Innate Immune System,P17612,INVOLVED_IN
+1219,R-HSA-168249,Innate Immune System,Q14643,INVOLVED_IN
+1220,R-HSA-168249,Innate Immune System,P14780,INVOLVED_IN
+1221,R-HSA-168249,Innate Immune System,O60610,INVOLVED_IN
+1222,R-HSA-168249,Innate Immune System,P29475,INVOLVED_IN
+1223,R-HSA-168249,Innate Immune System,P0DP23,INVOLVED_IN
+1224,R-HSA-168249,Innate Immune System,P06241,INVOLVED_IN
+1225,R-HSA-168249,Innate Immune System,Q14571,INVOLVED_IN
+1226,R-HSA-168249,Innate Immune System,O94759,INVOLVED_IN
+1227,R-HSA-168249,Innate Immune System,P05067,INVOLVED_IN
+1228,R-HSA-168249,Innate Immune System,P49768,INVOLVED_IN
+1229,R-HSA-5687128,MAPK6/MAPK4 signaling,P17612,INVOLVED_IN
+1230,R-HSA-73887,Death Receptor Signalling,P49810,INVOLVED_IN
+1231,R-HSA-73887,Death Receptor Signalling,P62258,INVOLVED_IN
+1232,R-HSA-73887,Death Receptor Signalling,P49768,INVOLVED_IN
+1233,R-HSA-166520,Signaling by NTRKs,O00141,INVOLVED_IN
+1234,R-HSA-166520,Signaling by NTRKs,P06241,INVOLVED_IN
+1235,R-HSA-8978868,Fatty acid metabolism,P27169,INVOLVED_IN
+1236,R-HSA-9614085,FOXO-mediated transcription,Q03135,INVOLVED_IN
+1237,R-HSA-983169,Class I MHC mediated antigen processing & presentation,P11021,INVOLVED_IN
+1238,R-HSA-166016,Toll Like Receptor 4 (TLR4) Cascade,P05067,INVOLVED_IN
+1239,R-HSA-446203,Asparagine N-linked glycosylation,Q01484,INVOLVED_IN
+1240,R-HSA-195721,Signaling by WNT,Q14643,INVOLVED_IN
+1241,R-HSA-195721,Signaling by WNT,P0DP23,INVOLVED_IN
+1242,R-HSA-195721,Signaling by WNT,P17252,INVOLVED_IN
+1243,R-HSA-195721,Signaling by WNT,Q14571,INVOLVED_IN
+1244,R-HSA-195721,Signaling by WNT,Q03135,INVOLVED_IN
+1245,R-HSA-447115,Interleukin-12 family signaling,P78417,INVOLVED_IN
+1246,R-HSA-162909,Host Interactions of HIV factors,P06241,INVOLVED_IN
+1247,R-HSA-9006931,Signaling by Nuclear Receptors,P14780,INVOLVED_IN
+1248,R-HSA-9006931,Signaling by Nuclear Receptors,P0DP23,INVOLVED_IN
+1249,R-HSA-9006931,Signaling by Nuclear Receptors,Q03135,INVOLVED_IN
+1250,R-HSA-9006931,Signaling by Nuclear Receptors,Q02790,INVOLVED_IN
+1251,R-HSA-187037,Signaling by NTRK1 (TRKA),O00141,INVOLVED_IN
+1252,R-HSA-450531,Regulation of mRNA stability by proteins that bind AU-rich elements,P17252,INVOLVED_IN
+1253,R-HSA-449147,Signaling by Interleukins,P05556,INVOLVED_IN
+1254,R-HSA-449147,Signaling by Interleukins,P17612,INVOLVED_IN
+1255,R-HSA-449147,Signaling by Interleukins,P14780,INVOLVED_IN
+1256,R-HSA-449147,Signaling by Interleukins,Q16623,INVOLVED_IN
+1257,R-HSA-449147,Signaling by Interleukins,P06241,INVOLVED_IN
+1258,R-HSA-449147,Signaling by Interleukins,P05067,INVOLVED_IN
+1259,R-HSA-449147,Signaling by Interleukins,P78417,INVOLVED_IN
+1260,R-HSA-432720,Lysosome Vesicle Biogenesis,P05067,INVOLVED_IN
+1261,R-HSA-8863678,Neurodegenerative Diseases,P05067,INVOLVED_IN
+1262,R-HSA-8863678,Neurodegenerative Diseases,P62258,INVOLVED_IN
+1263,R-HSA-8862803,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,P05067,INVOLVED_IN
+1264,R-HSA-8862803,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,P62258,INVOLVED_IN
+1265,R-HSA-168898,Toll-like Receptor Cascades,P05067,INVOLVED_IN
+1266,R-HSA-170834,Signaling by TGF-beta Receptor Complex,P62942,INVOLVED_IN
+1267,R-HSA-9612973,Autophagy,P21796,INVOLVED_IN
+1268,R-HSA-9645723,Diseases of programmed cell death,P05067,INVOLVED_IN
+1269,R-HSA-9645723,Diseases of programmed cell death,P62258,INVOLVED_IN
+1270,R-HSA-5688426,Deubiquitination,P21796,INVOLVED_IN
+1271,R-HSA-9006936,Signaling by TGFB family members,P62942,INVOLVED_IN
+1272,R-HSA-381070,IRE1alpha activates chaperones,P11021,INVOLVED_IN
+1273,R-HSA-9018519,Estrogen-dependent gene expression,Q02790,INVOLVED_IN
+1274,R-HSA-913531,Interferon Signaling,Q13557,INVOLVED_IN
+1275,R-HSA-199992,trans-Golgi Network Vesicle Budding,P05067,INVOLVED_IN
+1276,R-HSA-162906,HIV Infection,P06241,INVOLVED_IN
+1277,R-HSA-1257604,PIP3 activates AKT signaling,P06241,INVOLVED_IN
+1278,R-HSA-69278,"Cell Cycle, Mitotic",P17612,INVOLVED_IN
+1279,R-HSA-69278,"Cell Cycle, Mitotic",P17252,INVOLVED_IN
+1280,R-HSA-69278,"Cell Cycle, Mitotic",P62258,INVOLVED_IN
+1281,R-HSA-5633007,Regulation of TP53 Activity,O00141,INVOLVED_IN
+1282,R-HSA-109581,Apoptosis,P62258,INVOLVED_IN
+1283,R-HSA-168256,Immune System,P05556,INVOLVED_IN
+1284,R-HSA-168256,Immune System,Q96D31,INVOLVED_IN
+1285,R-HSA-168256,Immune System,Q14643,INVOLVED_IN
+1286,R-HSA-168256,Immune System,Q13586,INVOLVED_IN
+1287,R-HSA-168256,Immune System,Q16623,INVOLVED_IN
+1288,R-HSA-168256,Immune System,P0DP23,INVOLVED_IN
+1289,R-HSA-168256,Immune System,P29475,INVOLVED_IN
+1290,R-HSA-168256,Immune System,Q13557,INVOLVED_IN
+1291,R-HSA-168256,Immune System,P78417,INVOLVED_IN
+1292,R-HSA-168256,Immune System,P17612,INVOLVED_IN
+1293,R-HSA-168256,Immune System,P14780,INVOLVED_IN
+1294,R-HSA-168256,Immune System,P11021,INVOLVED_IN
+1295,R-HSA-168256,Immune System,O60610,INVOLVED_IN
+1296,R-HSA-168256,Immune System,P06241,INVOLVED_IN
+1297,R-HSA-168256,Immune System,Q14571,INVOLVED_IN
+1298,R-HSA-168256,Immune System,O94759,INVOLVED_IN
+1299,R-HSA-168256,Immune System,P05067,INVOLVED_IN
+1300,R-HSA-168256,Immune System,P62942,INVOLVED_IN
+1301,R-HSA-168256,Immune System,P49768,INVOLVED_IN
+1302,R-HSA-5663205,Infectious disease,P05556,INVOLVED_IN
+1303,R-HSA-5663205,Infectious disease,P17612,INVOLVED_IN
+1304,R-HSA-5663205,Infectious disease,Q14643,INVOLVED_IN
+1305,R-HSA-5663205,Infectious disease,Q16623,INVOLVED_IN
+1306,R-HSA-5663205,Infectious disease,P0DP23,INVOLVED_IN
+1307,R-HSA-5663205,Infectious disease,P06241,INVOLVED_IN
+1308,R-HSA-5663205,Infectious disease,Q14571,INVOLVED_IN
+1309,R-HSA-5663205,Infectious disease,P05067,INVOLVED_IN
+1310,R-HSA-5663205,Infectious disease,P62942,INVOLVED_IN
+1311,R-HSA-5663205,Infectious disease,Q02790,INVOLVED_IN
+1312,R-HSA-201681,TCF dependent signaling in response to WNT,Q03135,INVOLVED_IN
+1313,R-HSA-1280215,Cytokine Signaling in Immune system,P05556,INVOLVED_IN
+1314,R-HSA-1280215,Cytokine Signaling in Immune system,P17612,INVOLVED_IN
+1315,R-HSA-1280215,Cytokine Signaling in Immune system,P14780,INVOLVED_IN
+1316,R-HSA-1280215,Cytokine Signaling in Immune system,Q16623,INVOLVED_IN
+1317,R-HSA-1280215,Cytokine Signaling in Immune system,Q13557,INVOLVED_IN
+1318,R-HSA-1280215,Cytokine Signaling in Immune system,P06241,INVOLVED_IN
+1319,R-HSA-1280215,Cytokine Signaling in Immune system,P05067,INVOLVED_IN
+1320,R-HSA-1280215,Cytokine Signaling in Immune system,P78417,INVOLVED_IN
+1321,R-HSA-381119,Unfolded Protein Response (UPR),P11021,INVOLVED_IN
+1322,R-HSA-5357801,Programmed Cell Death,P62258,INVOLVED_IN
+1323,R-HSA-3700989,Transcriptional Regulation by TP53,O00141,INVOLVED_IN
+1324,R-HSA-3700989,Transcriptional Regulation by TP53,P62258,INVOLVED_IN
+1325,R-HSA-1640170,Cell Cycle,P17612,INVOLVED_IN
+1326,R-HSA-1640170,Cell Cycle,P17252,INVOLVED_IN
+1327,R-HSA-1640170,Cell Cycle,P62258,INVOLVED_IN
+1328,R-HSA-162582,Signal Transduction,Q14643,INVOLVED_IN
+1329,R-HSA-162582,Signal Transduction,P12814,INVOLVED_IN
+1330,R-HSA-162582,Signal Transduction,Q13557,INVOLVED_IN
+1331,R-HSA-162582,Signal Transduction,P14416,INVOLVED_IN
+1332,R-HSA-162582,Signal Transduction,P16615,INVOLVED_IN
+1333,R-HSA-162582,Signal Transduction,P41180,INVOLVED_IN
+1334,R-HSA-162582,Signal Transduction,Q03135,INVOLVED_IN
+1335,R-HSA-162582,Signal Transduction,P14780,INVOLVED_IN
+1336,R-HSA-162582,Signal Transduction,P17252,INVOLVED_IN
+1337,R-HSA-162582,Signal Transduction,P06241,INVOLVED_IN
+1338,R-HSA-162582,Signal Transduction,Q14571,INVOLVED_IN
+1339,R-HSA-162582,Signal Transduction,P49810,INVOLVED_IN
+1340,R-HSA-162582,Signal Transduction,P62258,INVOLVED_IN
+1341,R-HSA-162582,Signal Transduction,P05556,INVOLVED_IN
+1342,R-HSA-162582,Signal Transduction,P0DP23,INVOLVED_IN
+1343,R-HSA-162582,Signal Transduction,P35609,INVOLVED_IN
+1344,R-HSA-162582,Signal Transduction,O43603,INVOLVED_IN
+1345,R-HSA-162582,Signal Transduction,Q02790,INVOLVED_IN
+1346,R-HSA-162582,Signal Transduction,P17302,INVOLVED_IN
+1347,R-HSA-162582,Signal Transduction,P17612,INVOLVED_IN
+1348,R-HSA-162582,Signal Transduction,O60610,INVOLVED_IN
+1349,R-HSA-162582,Signal Transduction,O00141,INVOLVED_IN
+1350,R-HSA-162582,Signal Transduction,P05067,INVOLVED_IN
+1351,R-HSA-162582,Signal Transduction,P62942,INVOLVED_IN
+1352,R-HSA-162582,Signal Transduction,P49768,INVOLVED_IN
+1353,R-HSA-2262752,Cellular responses to stress,P11021,INVOLVED_IN
+1354,R-HSA-2262752,Cellular responses to stress,Q13557,INVOLVED_IN
+1355,R-HSA-2262752,Cellular responses to stress,P62258,INVOLVED_IN
+1356,R-HSA-2262752,Cellular responses to stress,Q02790,INVOLVED_IN
+1357,R-HSA-1430728,Metabolism,P27169,INVOLVED_IN
+1358,R-HSA-1430728,Metabolism,Q14643,INVOLVED_IN
+1359,R-HSA-1430728,Metabolism,Q16623,INVOLVED_IN
+1360,R-HSA-1430728,Metabolism,P0DP23,INVOLVED_IN
+1361,R-HSA-1430728,Metabolism,Q13936,INVOLVED_IN
+1362,R-HSA-1430728,Metabolism,Q03135,INVOLVED_IN
+1363,R-HSA-1430728,Metabolism,Q08289,INVOLVED_IN
+1364,R-HSA-1430728,Metabolism,P78417,INVOLVED_IN
+1365,R-HSA-1430728,Metabolism,P19634,INVOLVED_IN
+1366,R-HSA-1430728,Metabolism,O00555,INVOLVED_IN
+1367,R-HSA-1430728,Metabolism,P17612,INVOLVED_IN
+1368,R-HSA-1430728,Metabolism,P17252,INVOLVED_IN
+1369,R-HSA-1430728,Metabolism,Q14571,INVOLVED_IN
+1370,R-HSA-1430728,Metabolism,P21796,INVOLVED_IN
+1371,R-HSA-8953897,Cellular responses to stimuli,P11021,INVOLVED_IN
+1372,R-HSA-8953897,Cellular responses to stimuli,Q13557,INVOLVED_IN
+1373,R-HSA-8953897,Cellular responses to stimuli,P62258,INVOLVED_IN
+1374,R-HSA-8953897,Cellular responses to stimuli,Q02790,INVOLVED_IN
+1375,R-HSA-556833,Metabolism of lipids,P27169,INVOLVED_IN
+1376,R-HSA-556833,Metabolism of lipids,P17612,INVOLVED_IN
+1377,R-HSA-556833,Metabolism of lipids,Q03135,INVOLVED_IN
+1378,R-HSA-1643685,Disease,P05556,INVOLVED_IN
+1379,R-HSA-1643685,Disease,Q14643,INVOLVED_IN
+1380,R-HSA-1643685,Disease,Q16623,INVOLVED_IN
+1381,R-HSA-1643685,Disease,P0DP23,INVOLVED_IN
+1382,R-HSA-1643685,Disease,Q13557,INVOLVED_IN
+1383,R-HSA-1643685,Disease,P49281,INVOLVED_IN
+1384,R-HSA-1643685,Disease,Q02790,INVOLVED_IN
+1385,R-HSA-1643685,Disease,P17612,INVOLVED_IN
+1386,R-HSA-1643685,Disease,P06241,INVOLVED_IN
+1387,R-HSA-1643685,Disease,Q14571,INVOLVED_IN
+1388,R-HSA-1643685,Disease,P49810,INVOLVED_IN
+1389,R-HSA-1643685,Disease,P05067,INVOLVED_IN
+1390,R-HSA-1643685,Disease,P62258,INVOLVED_IN
+1391,R-HSA-1643685,Disease,P62942,INVOLVED_IN
+1392,R-HSA-1643685,Disease,P49768,INVOLVED_IN
+1393,R-HSA-597592,Post-translational protein modification,Q8NBP7,INVOLVED_IN
+1394,R-HSA-597592,Post-translational protein modification,P0DP23,INVOLVED_IN
+1395,R-HSA-597592,Post-translational protein modification,Q01484,INVOLVED_IN
+1396,R-HSA-597592,Post-translational protein modification,P23327,INVOLVED_IN
+1397,R-HSA-597592,Post-translational protein modification,P05067,INVOLVED_IN
+1398,R-HSA-597592,Post-translational protein modification,P21796,INVOLVED_IN
+1399,R-HSA-8953854,Metabolism of RNA,P17252,INVOLVED_IN
+1400,R-HSA-392499,Metabolism of proteins,Q8NBP7,INVOLVED_IN
+1401,R-HSA-392499,Metabolism of proteins,Q16623,INVOLVED_IN
+1402,R-HSA-392499,Metabolism of proteins,P01160,INVOLVED_IN
+1403,R-HSA-392499,Metabolism of proteins,P0DP23,INVOLVED_IN
+1404,R-HSA-392499,Metabolism of proteins,Q01484,INVOLVED_IN
+1405,R-HSA-392499,Metabolism of proteins,P23327,INVOLVED_IN
+1406,R-HSA-392499,Metabolism of proteins,P05067,INVOLVED_IN
+1407,R-HSA-392499,Metabolism of proteins,P21796,INVOLVED_IN
+1408,R-HSA-212436,Generic Transcription Pathway,P17612,INVOLVED_IN
+1409,R-HSA-212436,Generic Transcription Pathway,P01160,INVOLVED_IN
+1410,R-HSA-212436,Generic Transcription Pathway,P0DP23,INVOLVED_IN
+1411,R-HSA-212436,Generic Transcription Pathway,O00141,INVOLVED_IN
+1412,R-HSA-212436,Generic Transcription Pathway,Q13557,INVOLVED_IN
+1413,R-HSA-212436,Generic Transcription Pathway,Q03135,INVOLVED_IN
+1414,R-HSA-212436,Generic Transcription Pathway,P62258,INVOLVED_IN
+1415,R-HSA-73857,RNA Polymerase II Transcription,P17612,INVOLVED_IN
+1416,R-HSA-73857,RNA Polymerase II Transcription,P01160,INVOLVED_IN
+1417,R-HSA-73857,RNA Polymerase II Transcription,P0DP23,INVOLVED_IN
+1418,R-HSA-73857,RNA Polymerase II Transcription,O00141,INVOLVED_IN
+1419,R-HSA-73857,RNA Polymerase II Transcription,Q13557,INVOLVED_IN
+1420,R-HSA-73857,RNA Polymerase II Transcription,Q03135,INVOLVED_IN
+1421,R-HSA-73857,RNA Polymerase II Transcription,P62258,INVOLVED_IN
+1422,R-HSA-74160,Gene expression (Transcription),P17612,INVOLVED_IN
+1423,R-HSA-74160,Gene expression (Transcription),P01160,INVOLVED_IN
+1424,R-HSA-74160,Gene expression (Transcription),P0DP23,INVOLVED_IN
+1425,R-HSA-74160,Gene expression (Transcription),O00141,INVOLVED_IN
+1426,R-HSA-74160,Gene expression (Transcription),Q13557,INVOLVED_IN
+1427,R-HSA-74160,Gene expression (Transcription),Q03135,INVOLVED_IN
+1428,R-HSA-74160,Gene expression (Transcription),P62258,INVOLVED_IN
